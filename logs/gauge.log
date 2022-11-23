@@ -1,0 +1,1683 @@
+22-11-2022 10:28:09.449 [Gauge] [DEBUG] Created gauge_screenshots_dir at /home/josh/QA_Exercise/submission-petstore-3/.gauge/screenshots
+22-11-2022 10:28:09.451 [Gauge] [DEBUG] Plugin dotnet is already installed.
+22-11-2022 10:28:09.452 [Gauge] [DEBUG] Parsing started.
+22-11-2022 10:28:09.453 [Gauge] [DEBUG] Started concepts parsing.
+22-11-2022 10:28:09.457 [Gauge] [DEBUG] 0 concepts parsing completed.
+22-11-2022 10:28:09.458 [Gauge] [ERROR] Specs directory specs does not exists.
+22-11-2022 10:29:05.720 [Gauge] [DEBUG] Created gauge_screenshots_dir at /home/josh/QA_Exercise/submission-petstore-3/.gauge/screenshots
+22-11-2022 10:29:05.721 [Gauge] [DEBUG] Plugin dotnet is already installed.
+22-11-2022 10:29:05.721 [Gauge] [DEBUG] Parsing started.
+22-11-2022 10:29:05.722 [Gauge] [DEBUG] Started concepts parsing.
+22-11-2022 10:29:05.724 [Gauge] [DEBUG] 0 concepts parsing completed.
+22-11-2022 10:29:05.724 [Gauge] [ERROR] Specs directory specs does not exists.
+23-11-2022 11:14:23.849 [Gauge] [DEBUG] Created gauge_screenshots_dir at /home/josh/QA_Exercise/submission-petstore-3/.gauge/screenshots
+23-11-2022 11:14:23.850 [Gauge] [DEBUG] Plugin dotnet is already installed.
+23-11-2022 11:14:23.850 [Gauge] [DEBUG] Parsing started.
+23-11-2022 11:14:23.850 [Gauge] [DEBUG] Started concepts parsing.
+23-11-2022 11:14:23.852 [Gauge] [DEBUG] 0 concepts parsing completed.
+23-11-2022 11:14:23.852 [Gauge] [ERROR] Specs directory specs does not exists.
+23-11-2022 11:14:26.386 [Gauge] [DEBUG] Created gauge_screenshots_dir at /home/josh/QA_Exercise/submission-petstore-3/.gauge/screenshots
+23-11-2022 11:14:26.388 [Gauge] [DEBUG] Plugin dotnet is already installed.
+23-11-2022 11:14:26.389 [Gauge] [DEBUG] Parsing started.
+23-11-2022 11:14:26.389 [Gauge] [DEBUG] Started concepts parsing.
+23-11-2022 11:14:26.392 [Gauge] [DEBUG] 0 concepts parsing completed.
+23-11-2022 11:14:26.394 [Gauge] [DEBUG] Started specifications parsing.
+23-11-2022 11:14:26.395 [Gauge] [DEBUG] 2 specifications parsing completed.
+23-11-2022 11:14:26.396 [Gauge] [DEBUG] Parsing completed.
+23-11-2022 11:14:26.853 [dotnet] [INFO] Microsoft (R) Build Engine version 17.0.1+b177f8fa7 for .NET
+23-11-2022 11:14:26.853 [dotnet] [INFO] Copyright (C) Microsoft Corporation. All rights reserved.
+23-11-2022 11:14:28.366 [Gauge] [DEBUG] Checking updates...
+23-11-2022 11:14:28.366 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/dotnet?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 11:14:29.403 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 11:14:29.742 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 11:14:29.804 [dotnet] [INFO] /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/OpenApiClient/Client/ApiClient.cs(205,34): warning CS0618: 'RestClient.ExecuteTaskAsync(IRestRequest)' is obsolete: 'Use ExecuteAsync instead' [/home/josh/QA_Exercise/submission-petstore-3/solution.csproj]
+23-11-2022 11:14:29.805 [dotnet] [INFO] /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/Steps/PetSteps.cs(15,37): warning CS0649: Field 'PetSteps._Pet' is never assigned to, and will always have its default value null [/home/josh/QA_Exercise/submission-petstore-3/solution.cspr
+23-11-2022 11:14:29.806 [dotnet] [INFO] oj]
+23-11-2022 11:14:30.526 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 11:14:30.536 [dotnet] [DEBUG] Using ExecutableRunnerServiceHandler
+23-11-2022 11:14:30.715 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 40827
+23-11-2022 11:14:30.766 [Gauge] [DEBUG] Successfully made the connection with runner with port: 40827
+23-11-2022 11:14:30.766 [Gauge] [DEBUG] Validation started.
+23-11-2022 11:14:31.485 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 11:14:31.485 [dotnet] [DEBUG] Try load Gauge.CSharp.Lib in GaugeLoadContext
+23-11-2022 11:14:31.494 [dotnet] [DEBUG] Try load solution in GaugeLoadContext
+23-11-2022 11:14:31.495 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:14:31.495 [dotnet] [DEBUG] Try load Microsoft.VisualStudio.TestPlatform.ObjectModel in GaugeLoadContext
+23-11-2022 11:14:31.496 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:14:31.497 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 11:14:31.497 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 11:14:31.497 [dotnet] [DEBUG] Try load Newtonsoft.Json in GaugeLoadContext
+23-11-2022 11:14:31.500 [dotnet] [DEBUG] Try load RestSharp in GaugeLoadContext
+23-11-2022 11:14:31.502 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 11:14:31.502 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 11:14:31.503 [dotnet] [DEBUG] Try load FluentAssertions in GaugeLoadContext
+23-11-2022 11:14:31.508 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 11:14:31.508 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 11:14:31.522 [dotnet] [DEBUG] Try load Microsoft.CSharp in GaugeLoadContext
+23-11-2022 11:14:31.525 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 11:14:31.525 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 11:14:31.525 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 11:14:31.525 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 11:14:31.525 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:14:31.525 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 11:14:31.526 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:14:31.527 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:14:31.530 [dotnet] [DEBUG] Number of AssembliesReferencingGaugeLib : 1
+23-11-2022 11:14:31.531 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:14:31.531 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:14:31.536 [dotnet] [DEBUG] Building StepRegistry...
+23-11-2022 11:14:31.538 [dotnet] [DEBUG] Try load netstandard in GaugeLoadContext
+23-11-2022 11:14:31.542 [dotnet] [DEBUG] 4 Step implementations found. Adding to registry...
+23-11-2022 11:14:31.542 [dotnet] [DEBUG] 'Add Pet to Scenerio': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 11:14:31.543 [dotnet] [DEBUG] 'Check that pet has {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 11:14:31.543 [dotnet] [DEBUG] 'Get store inventory': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 11:14:31.544 [dotnet] [DEBUG] 'Check that inventory has status {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 11:14:31.546 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 11:14:31.547 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 11:14:31.547 [dotnet] [DEBUG] Loaded Instance Manager of Type:Gauge.CSharp.Lib.DefaultClassInstanceManager
+23-11-2022 11:14:31.610 [Gauge] [DEBUG] Validation completed.
+23-11-2022 11:14:31.610 [Gauge] [DEBUG] Run started
+23-11-2022 11:14:31.614 [Gauge] [DEBUG] Initialising suite data store.
+23-11-2022 11:14:31.651 [Gauge] [INFO] # Store Test Plan
+23-11-2022 11:14:31.664 [Gauge] [INFO] ## The store provides inventory
+23-11-2022 11:14:31.678 [Gauge] [DEBUG] * Get store inventory
+23-11-2022 11:14:31.693 [dotnet] [DEBUG] Executing method: GetStoreInventory
+23-11-2022 11:14:31.696 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 11:14:31.698 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:14:31.704 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 11:14:31.704 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 11:14:31.705 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 11:14:31.707 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:14:31.707 [dotnet] [DEBUG] Try load System.Globalization in GaugeLoadContext
+23-11-2022 11:14:31.720 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 11:14:31.932 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 11:14:31.936 [dotnet] [DEBUG] Try load System.IO in GaugeLoadContext
+23-11-2022 11:14:31.943 [dotnet] [DEBUG] Try load System.Runtime.Extensions in GaugeLoadContext
+23-11-2022 11:14:31.949 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 11:14:31.950 [dotnet] [DEBUG] Try load System.Dynamic.Runtime in GaugeLoadContext
+23-11-2022 11:14:31.951 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 11:14:31.960 [dotnet] [DEBUG] Try load System.Reflection in GaugeLoadContext
+23-11-2022 11:14:31.965 [dotnet] [DEBUG] Try load System.Reflection.Extensions in GaugeLoadContext
+23-11-2022 11:14:31.966 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 11:14:31.969 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 11:14:31.979 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 11:14:31.981 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 11:14:32.060 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 11:14:32.062 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:14:32.062 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 11:14:32.066 [dotnet] [DEBUG] Try load System.Data.Common in GaugeLoadContext
+23-11-2022 11:14:32.068 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 11:14:32.075 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 11:14:32.080 [Gauge] [DEBUG] * Check that inventory has status "sold"
+23-11-2022 11:14:32.093 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 11:14:32.102 [Gauge] [DEBUG] * Check that inventory has status "pending"
+23-11-2022 11:14:32.104 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 11:14:32.105 [Gauge] [DEBUG] * Check that inventory has status "available"
+23-11-2022 11:14:32.107 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 11:14:32.119 [Gauge] [INFO] # Pet Test Plan
+23-11-2022 11:14:32.122 [Gauge] [INFO] ## The Pet Gets ID
+23-11-2022 11:14:32.124 [Gauge] [DEBUG] * Add Pet to Scenerio
+23-11-2022 11:14:32.131 [Gauge] [ERROR] Failed Step: Add Pet to Scenerio
+23-11-2022 11:14:32.131 [Gauge] [ERROR] Error Message: Argument length mismatch for Add Pet to Scenerio. Actual Count: 0, Expected Count: 1
+23-11-2022 11:14:32.131 [Gauge] [ERROR] Specification: Applications/PetStore/specs/pet.spec:7
+23-11-2022 11:14:32.131 [Gauge] [ERROR] Stacktrace: 
+23-11-2022 11:14:32.140 [dotnet] [DEBUG] KillProcessrequest received
+23-11-2022 11:14:32.154 [Gauge] [ERROR] Failed to kill Runner: rpc error: code = Unavailable desc = error reading from server: EOF
+23-11-2022 11:14:32.154 [Gauge] [INFO] Specifications:	2 executed	1 passed	1 failed	0 skipped
+23-11-2022 11:14:32.154 [Gauge] [INFO] Scenarios:	2 executed	1 passed	1 failed	0 skipped
+23-11-2022 11:14:32.154 [Gauge] [INFO] 
+Total time taken: 527ms
+23-11-2022 11:14:32.154 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+23-11-2022 11:21:56.066 [Gauge] [DEBUG] Created gauge_screenshots_dir at /home/josh/QA_Exercise/submission-petstore-3/.gauge/screenshots
+23-11-2022 11:21:56.068 [Gauge] [DEBUG] Plugin dotnet is already installed.
+23-11-2022 11:21:56.069 [Gauge] [DEBUG] Parsing started.
+23-11-2022 11:21:56.069 [Gauge] [DEBUG] Started concepts parsing.
+23-11-2022 11:21:56.072 [Gauge] [DEBUG] 0 concepts parsing completed.
+23-11-2022 11:21:56.074 [Gauge] [DEBUG] Started specifications parsing.
+23-11-2022 11:21:56.075 [Gauge] [DEBUG] 2 specifications parsing completed.
+23-11-2022 11:21:56.075 [Gauge] [DEBUG] Parsing completed.
+23-11-2022 11:21:56.540 [dotnet] [INFO] Microsoft (R) Build Engine version 17.0.1+b177f8fa7 for .NET
+23-11-2022 11:21:56.541 [dotnet] [INFO] Copyright (C) Microsoft Corporation. All rights reserved.
+23-11-2022 11:21:57.464 [Gauge] [DEBUG] Checking updates...
+23-11-2022 11:21:57.464 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/dotnet?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 11:21:58.985 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 11:21:59.327 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 11:21:59.354 [dotnet] [INFO] /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/OpenApiClient/Client/ApiClient.cs(205,34): warning CS0618: 'RestClient.ExecuteTaskAsync(IRestRequest)' is obsolete: 'Use ExecuteAsync instead' [/home/josh/QA_Exercise/submission-petstore-3/solution.csproj]
+23-11-2022 11:21:59.354 [dotnet] [INFO] /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/Steps/PetSteps.cs(15,37): warning CS0649: Field 'PetSteps._Pet' is never assigned to, and will always have its default value null [/home/josh/QA_Exercise/submission-petstore-3/solution.cspr
+23-11-2022 11:21:59.355 [dotnet] [INFO] oj]
+23-11-2022 11:22:00.082 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 11:22:00.090 [dotnet] [DEBUG] Using ExecutableRunnerServiceHandler
+23-11-2022 11:22:00.256 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 33655
+23-11-2022 11:22:00.297 [Gauge] [DEBUG] Successfully made the connection with runner with port: 33655
+23-11-2022 11:22:00.298 [Gauge] [DEBUG] Validation started.
+23-11-2022 11:22:01.014 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 11:22:01.015 [dotnet] [DEBUG] Try load Gauge.CSharp.Lib in GaugeLoadContext
+23-11-2022 11:22:01.019 [dotnet] [DEBUG] Try load solution in GaugeLoadContext
+23-11-2022 11:22:01.019 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:22:01.019 [dotnet] [DEBUG] Try load Microsoft.VisualStudio.TestPlatform.ObjectModel in GaugeLoadContext
+23-11-2022 11:22:01.021 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:22:01.021 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 11:22:01.021 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 11:22:01.022 [dotnet] [DEBUG] Try load Newtonsoft.Json in GaugeLoadContext
+23-11-2022 11:22:01.025 [dotnet] [DEBUG] Try load RestSharp in GaugeLoadContext
+23-11-2022 11:22:01.027 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 11:22:01.027 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 11:22:01.027 [dotnet] [DEBUG] Try load FluentAssertions in GaugeLoadContext
+23-11-2022 11:22:01.045 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 11:22:01.045 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 11:22:01.045 [dotnet] [DEBUG] Try load Microsoft.CSharp in GaugeLoadContext
+23-11-2022 11:22:01.048 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 11:22:01.048 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 11:22:01.048 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 11:22:01.048 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 11:22:01.049 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:22:01.049 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 11:22:01.050 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:22:01.050 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:22:01.054 [dotnet] [DEBUG] Number of AssembliesReferencingGaugeLib : 1
+23-11-2022 11:22:01.054 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:22:01.054 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:22:01.059 [dotnet] [DEBUG] Building StepRegistry...
+23-11-2022 11:22:01.062 [dotnet] [DEBUG] Try load netstandard in GaugeLoadContext
+23-11-2022 11:22:01.067 [dotnet] [DEBUG] 4 Step implementations found. Adding to registry...
+23-11-2022 11:22:01.068 [dotnet] [DEBUG] 'Add Pet to Scenerio {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 11:22:01.069 [dotnet] [DEBUG] 'Check that pet has {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 11:22:01.069 [dotnet] [DEBUG] 'Get store inventory': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 11:22:01.069 [dotnet] [DEBUG] 'Check that inventory has status {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 11:22:01.073 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 11:22:01.073 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 11:22:01.073 [dotnet] [DEBUG] Loaded Instance Manager of Type:Gauge.CSharp.Lib.DefaultClassInstanceManager
+23-11-2022 11:22:01.136 [Gauge] [DEBUG] Validation completed.
+23-11-2022 11:22:01.136 [Gauge] [DEBUG] Run started
+23-11-2022 11:22:01.137 [Gauge] [DEBUG] Initialising suite data store.
+23-11-2022 11:22:01.176 [Gauge] [INFO] # Store Test Plan
+23-11-2022 11:22:01.188 [Gauge] [INFO] ## The store provides inventory
+23-11-2022 11:22:01.203 [Gauge] [DEBUG] * Get store inventory
+23-11-2022 11:22:01.216 [dotnet] [DEBUG] Executing method: GetStoreInventory
+23-11-2022 11:22:01.219 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 11:22:01.222 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:22:01.227 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 11:22:01.228 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 11:22:01.229 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 11:22:01.230 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:22:01.231 [dotnet] [DEBUG] Try load System.Globalization in GaugeLoadContext
+23-11-2022 11:22:01.243 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 11:22:01.358 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 11:22:01.362 [dotnet] [DEBUG] Try load System.IO in GaugeLoadContext
+23-11-2022 11:22:01.369 [dotnet] [DEBUG] Try load System.Runtime.Extensions in GaugeLoadContext
+23-11-2022 11:22:01.376 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 11:22:01.377 [dotnet] [DEBUG] Try load System.Dynamic.Runtime in GaugeLoadContext
+23-11-2022 11:22:01.378 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 11:22:01.387 [dotnet] [DEBUG] Try load System.Reflection in GaugeLoadContext
+23-11-2022 11:22:01.392 [dotnet] [DEBUG] Try load System.Reflection.Extensions in GaugeLoadContext
+23-11-2022 11:22:01.392 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 11:22:01.395 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 11:22:01.406 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 11:22:01.407 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 11:22:01.490 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 11:22:01.492 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:22:01.492 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 11:22:01.497 [dotnet] [DEBUG] Try load System.Data.Common in GaugeLoadContext
+23-11-2022 11:22:01.500 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 11:22:01.506 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 11:22:01.511 [Gauge] [DEBUG] * Check that inventory has status "sold"
+23-11-2022 11:22:01.526 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 11:22:01.533 [Gauge] [DEBUG] * Check that inventory has status "pending"
+23-11-2022 11:22:01.536 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 11:22:01.538 [Gauge] [DEBUG] * Check that inventory has status "available"
+23-11-2022 11:22:01.541 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 11:22:01.552 [Gauge] [INFO] # Pet Test Plan
+23-11-2022 11:22:01.563 [Gauge] [INFO] ## The Pet Gets ID
+23-11-2022 11:22:01.565 [Gauge] [DEBUG] * Add Pet to Scenerio "1"
+23-11-2022 11:22:01.585 [dotnet] [DEBUG] Executing method: AddPet
+23-11-2022 11:22:01.588 [dotnet] [DEBUG] Error executing AddPet : Exception has been thrown by the target of an invocation.
+23-11-2022 11:22:01.602 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 11:22:01.604 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 11:22:01.604 [dotnet] [DEBUG] Try load System.Diagnostics.Process in GaugeLoadContext
+23-11-2022 11:22:01.627 [dotnet] [ERROR] panic: BadMatch {NiceName: Match, Sequence: 1, BadValue: 1164, MinorOpcode: 0, MajorOpcode: 73}
+23-11-2022 11:22:01.627 [dotnet] [ERROR] goroutine 1 [running]:
+23-11-2022 11:22:01.627 [dotnet] [ERROR] main.main()
+23-11-2022 11:22:01.628 [dotnet] [ERROR] 	/Users/runner/work/gauge_screenshot/gauge_screenshot/main.go:44 +0x205
+23-11-2022 11:22:01.634 [Gauge] [ERROR] Failed Step: Add Pet to Scenerio "1"
+23-11-2022 11:22:01.634 [Gauge] [ERROR] Error Message: photoUrls is a required property for Pet and cannot be null
+23-11-2022 11:22:01.634 [Gauge] [ERROR] Specification: Applications/PetStore/specs/pet.spec:7
+23-11-2022 11:22:01.634 [Gauge] [ERROR] Stacktrace: 
+   at Applications.PetStore.Swagger.Model.Pet..ctor(Nullable`1 id, Category category, String name, List`1 photoUrls, List`1 tags, Nullable`1 status) in /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/OpenApiClient/Model/Pet.cs:line 83
+   at Applications.PetStore.Steps.PetSteps.AddPet(String name) in /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/Steps/PetSteps.cs:line 21
+23-11-2022 11:22:01.644 [dotnet] [DEBUG] KillProcessrequest received
+23-11-2022 11:22:01.751 [Gauge] [DEBUG] Runner with PID:13589 has exited
+23-11-2022 11:22:01.752 [Gauge] [INFO] Specifications:	2 executed	1 passed	1 failed	0 skipped
+23-11-2022 11:22:01.752 [Gauge] [INFO] Scenarios:	2 executed	1 passed	1 failed	0 skipped
+23-11-2022 11:22:01.752 [Gauge] [INFO] 
+Total time taken: 506ms
+23-11-2022 11:22:01.752 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+23-11-2022 11:51:23.668 [Gauge] [DEBUG] Created gauge_screenshots_dir at /home/josh/QA_Exercise/submission-petstore-3/.gauge/screenshots
+23-11-2022 11:51:23.669 [Gauge] [DEBUG] Plugin dotnet is already installed.
+23-11-2022 11:51:23.669 [Gauge] [DEBUG] Parsing started.
+23-11-2022 11:51:23.669 [Gauge] [DEBUG] Started concepts parsing.
+23-11-2022 11:51:23.671 [Gauge] [DEBUG] 0 concepts parsing completed.
+23-11-2022 11:51:23.672 [Gauge] [DEBUG] Started specifications parsing.
+23-11-2022 11:51:23.673 [Gauge] [DEBUG] 2 specifications parsing completed.
+23-11-2022 11:51:23.673 [Gauge] [DEBUG] Parsing completed.
+23-11-2022 11:51:24.159 [dotnet] [INFO] Microsoft (R) Build Engine version 17.0.1+b177f8fa7 for .NET
+23-11-2022 11:51:24.160 [dotnet] [INFO] Copyright (C) Microsoft Corporation. All rights reserved.
+23-11-2022 11:51:24.965 [Gauge] [DEBUG] Checking updates...
+23-11-2022 11:51:24.965 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/dotnet?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 11:51:26.962 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 11:51:27.286 [dotnet] [INFO] /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/OpenApiClient/Client/ApiClient.cs(205,34): warning CS0618: 'RestClient.ExecuteTaskAsync(IRestRequest)' is obsolete: 'Use ExecuteAsync instead' [/home/josh/QA_Exercise/submission-petstore-3/solution.csproj]
+23-11-2022 11:51:27.286 [dotnet] [INFO] /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/Steps/PetSteps.cs(15,37): warning CS0169: The field 'PetSteps._Pet' is never used [/home/josh/QA_Exercise/submission-petstore-3/solution.csproj]
+23-11-2022 11:51:27.306 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 11:51:27.946 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 11:51:27.956 [dotnet] [DEBUG] Using ExecutableRunnerServiceHandler
+23-11-2022 11:51:28.128 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 44245
+23-11-2022 11:51:28.178 [Gauge] [DEBUG] Successfully made the connection with runner with port: 44245
+23-11-2022 11:51:28.178 [Gauge] [DEBUG] Validation started.
+23-11-2022 11:51:28.935 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 11:51:28.936 [dotnet] [DEBUG] Try load Gauge.CSharp.Lib in GaugeLoadContext
+23-11-2022 11:51:28.939 [dotnet] [DEBUG] Try load solution in GaugeLoadContext
+23-11-2022 11:51:28.940 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:51:28.940 [dotnet] [DEBUG] Try load Microsoft.VisualStudio.TestPlatform.ObjectModel in GaugeLoadContext
+23-11-2022 11:51:28.941 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:51:28.941 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 11:51:28.941 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 11:51:28.941 [dotnet] [DEBUG] Try load Newtonsoft.Json in GaugeLoadContext
+23-11-2022 11:51:28.942 [dotnet] [DEBUG] Try load RestSharp in GaugeLoadContext
+23-11-2022 11:51:28.942 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 11:51:28.942 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 11:51:28.943 [dotnet] [DEBUG] Try load FluentAssertions in GaugeLoadContext
+23-11-2022 11:51:28.944 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 11:51:28.944 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 11:51:28.944 [dotnet] [DEBUG] Try load Microsoft.CSharp in GaugeLoadContext
+23-11-2022 11:51:28.945 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 11:51:28.945 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 11:51:28.945 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 11:51:28.945 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 11:51:28.945 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:51:28.945 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 11:51:28.946 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:51:28.946 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:51:28.952 [dotnet] [DEBUG] Number of AssembliesReferencingGaugeLib : 1
+23-11-2022 11:51:28.953 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:51:28.953 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:51:28.958 [dotnet] [DEBUG] Building StepRegistry...
+23-11-2022 11:51:28.960 [dotnet] [DEBUG] Try load netstandard in GaugeLoadContext
+23-11-2022 11:51:28.963 [dotnet] [DEBUG] 4 Step implementations found. Adding to registry...
+23-11-2022 11:51:28.964 [dotnet] [DEBUG] 'Add Pet to Scenerio with {} with {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 11:51:28.965 [dotnet] [DEBUG] 'Check that pet has {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 11:51:28.965 [dotnet] [DEBUG] 'Get store inventory': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 11:51:28.966 [dotnet] [DEBUG] 'Check that inventory has status {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 11:51:28.969 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 11:51:28.969 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 11:51:28.969 [dotnet] [DEBUG] Loaded Instance Manager of Type:Gauge.CSharp.Lib.DefaultClassInstanceManager
+23-11-2022 11:51:29.041 [Gauge] [DEBUG] Validation completed.
+23-11-2022 11:51:29.041 [Gauge] [DEBUG] Run started
+23-11-2022 11:51:29.042 [Gauge] [DEBUG] Initialising suite data store.
+23-11-2022 11:51:29.083 [Gauge] [INFO] # Store Test Plan
+23-11-2022 11:51:29.100 [Gauge] [INFO] ## The store provides inventory
+23-11-2022 11:51:29.117 [Gauge] [DEBUG] * Get store inventory
+23-11-2022 11:51:29.138 [dotnet] [DEBUG] Executing method: GetStoreInventory
+23-11-2022 11:51:29.141 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 11:51:29.144 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:51:29.148 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 11:51:29.149 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 11:51:29.151 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 11:51:29.153 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:51:29.153 [dotnet] [DEBUG] Try load System.Globalization in GaugeLoadContext
+23-11-2022 11:51:29.168 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 11:51:29.316 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 11:51:29.321 [dotnet] [DEBUG] Try load System.IO in GaugeLoadContext
+23-11-2022 11:51:29.324 [dotnet] [DEBUG] Try load System.Runtime.Extensions in GaugeLoadContext
+23-11-2022 11:51:29.331 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 11:51:29.332 [dotnet] [DEBUG] Try load System.Dynamic.Runtime in GaugeLoadContext
+23-11-2022 11:51:29.333 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 11:51:29.342 [dotnet] [DEBUG] Try load System.Reflection in GaugeLoadContext
+23-11-2022 11:51:29.347 [dotnet] [DEBUG] Try load System.Reflection.Extensions in GaugeLoadContext
+23-11-2022 11:51:29.347 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 11:51:29.351 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 11:51:29.361 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 11:51:29.362 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 11:51:29.438 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 11:51:29.439 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:51:29.440 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 11:51:29.443 [dotnet] [DEBUG] Try load System.Data.Common in GaugeLoadContext
+23-11-2022 11:51:29.446 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 11:51:29.451 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 11:51:29.457 [Gauge] [DEBUG] * Check that inventory has status "sold"
+23-11-2022 11:51:29.472 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 11:51:29.482 [Gauge] [DEBUG] * Check that inventory has status "pending"
+23-11-2022 11:51:29.484 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 11:51:29.486 [Gauge] [DEBUG] * Check that inventory has status "available"
+23-11-2022 11:51:29.489 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 11:51:29.504 [Gauge] [INFO] # Pet Test Plan
+23-11-2022 11:51:29.508 [Gauge] [INFO] ## The Pet Gets ID
+23-11-2022 11:51:29.511 [Gauge] [DEBUG] * Add Pet to Scenerio with "lol" with "cat"
+23-11-2022 11:51:29.514 [dotnet] [DEBUG] Executing method: AddPet
+23-11-2022 11:51:29.554 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 11:51:30.047 [dotnet] [DEBUG] Try load System.Runtime.Extensions in GaugeLoadContext
+23-11-2022 11:51:30.065 [dotnet] [DEBUG] KillProcessrequest received
+23-11-2022 11:51:30.170 [Gauge] [DEBUG] Runner with PID:15920 has exited
+23-11-2022 11:51:30.170 [Gauge] [INFO] Specifications:	2 executed	2 passed	0 failed	0 skipped
+23-11-2022 11:51:30.170 [Gauge] [INFO] Scenarios:	2 executed	2 passed	0 failed	0 skipped
+23-11-2022 11:51:30.170 [Gauge] [INFO] 
+Total time taken: 1.021s
+23-11-2022 11:51:30.170 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+23-11-2022 11:53:17.240 [Gauge] [DEBUG] Created gauge_screenshots_dir at /home/josh/QA_Exercise/submission-petstore-3/.gauge/screenshots
+23-11-2022 11:53:17.241 [Gauge] [DEBUG] Plugin dotnet is already installed.
+23-11-2022 11:53:17.241 [Gauge] [DEBUG] Parsing started.
+23-11-2022 11:53:17.241 [Gauge] [DEBUG] Started concepts parsing.
+23-11-2022 11:53:17.242 [Gauge] [DEBUG] 0 concepts parsing completed.
+23-11-2022 11:53:17.243 [Gauge] [DEBUG] Started specifications parsing.
+23-11-2022 11:53:17.244 [Gauge] [DEBUG] 2 specifications parsing completed.
+23-11-2022 11:53:17.244 [Gauge] [DEBUG] Parsing completed.
+23-11-2022 11:53:17.713 [dotnet] [INFO] Microsoft (R) Build Engine version 17.0.1+b177f8fa7 for .NET
+23-11-2022 11:53:17.713 [dotnet] [INFO] Copyright (C) Microsoft Corporation. All rights reserved.
+23-11-2022 11:53:18.422 [Gauge] [DEBUG] Checking updates...
+23-11-2022 11:53:18.423 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/dotnet?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 11:53:19.660 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 11:53:19.999 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 11:53:20.654 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 11:53:20.663 [dotnet] [DEBUG] Using ExecutableRunnerServiceHandler
+23-11-2022 11:53:20.817 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 38471
+23-11-2022 11:53:20.858 [Gauge] [DEBUG] Successfully made the connection with runner with port: 38471
+23-11-2022 11:53:20.858 [Gauge] [DEBUG] Validation started.
+23-11-2022 11:53:21.584 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 11:53:21.584 [dotnet] [DEBUG] Try load Gauge.CSharp.Lib in GaugeLoadContext
+23-11-2022 11:53:21.588 [dotnet] [DEBUG] Try load solution in GaugeLoadContext
+23-11-2022 11:53:21.589 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:53:21.589 [dotnet] [DEBUG] Try load Microsoft.VisualStudio.TestPlatform.ObjectModel in GaugeLoadContext
+23-11-2022 11:53:21.589 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:53:21.589 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 11:53:21.589 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 11:53:21.590 [dotnet] [DEBUG] Try load Newtonsoft.Json in GaugeLoadContext
+23-11-2022 11:53:21.590 [dotnet] [DEBUG] Try load RestSharp in GaugeLoadContext
+23-11-2022 11:53:21.591 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 11:53:21.591 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 11:53:21.591 [dotnet] [DEBUG] Try load FluentAssertions in GaugeLoadContext
+23-11-2022 11:53:21.605 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 11:53:21.605 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 11:53:21.606 [dotnet] [DEBUG] Try load Microsoft.CSharp in GaugeLoadContext
+23-11-2022 11:53:21.606 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 11:53:21.606 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 11:53:21.606 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 11:53:21.606 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 11:53:21.606 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:53:21.607 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 11:53:21.607 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:53:21.608 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:53:21.614 [dotnet] [DEBUG] Number of AssembliesReferencingGaugeLib : 1
+23-11-2022 11:53:21.614 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:53:21.614 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:53:21.619 [dotnet] [DEBUG] Building StepRegistry...
+23-11-2022 11:53:21.621 [dotnet] [DEBUG] Try load netstandard in GaugeLoadContext
+23-11-2022 11:53:21.624 [dotnet] [DEBUG] 4 Step implementations found. Adding to registry...
+23-11-2022 11:53:21.625 [dotnet] [DEBUG] 'Add Pet to Scenerio with {} with {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 11:53:21.626 [dotnet] [DEBUG] 'Check that pet has {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 11:53:21.626 [dotnet] [DEBUG] 'Get store inventory': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 11:53:21.626 [dotnet] [DEBUG] 'Check that inventory has status {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 11:53:21.629 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 11:53:21.629 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 11:53:21.630 [dotnet] [DEBUG] Loaded Instance Manager of Type:Gauge.CSharp.Lib.DefaultClassInstanceManager
+23-11-2022 11:53:21.693 [Gauge] [DEBUG] Validation completed.
+23-11-2022 11:53:21.693 [Gauge] [DEBUG] Run started
+23-11-2022 11:53:21.693 [Gauge] [DEBUG] Initialising suite data store.
+23-11-2022 11:53:21.730 [Gauge] [INFO] # Store Test Plan
+23-11-2022 11:53:21.743 [Gauge] [INFO] ## The store provides inventory
+23-11-2022 11:53:21.757 [Gauge] [DEBUG] * Get store inventory
+23-11-2022 11:53:21.770 [dotnet] [DEBUG] Executing method: GetStoreInventory
+23-11-2022 11:53:21.773 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 11:53:21.775 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:53:21.778 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 11:53:21.778 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 11:53:21.781 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 11:53:21.783 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:53:21.783 [dotnet] [DEBUG] Try load System.Globalization in GaugeLoadContext
+23-11-2022 11:53:21.796 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 11:53:21.910 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 11:53:21.913 [dotnet] [DEBUG] Try load System.IO in GaugeLoadContext
+23-11-2022 11:53:21.917 [dotnet] [DEBUG] Try load System.Runtime.Extensions in GaugeLoadContext
+23-11-2022 11:53:21.923 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 11:53:21.924 [dotnet] [DEBUG] Try load System.Dynamic.Runtime in GaugeLoadContext
+23-11-2022 11:53:21.924 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 11:53:21.934 [dotnet] [DEBUG] Try load System.Reflection in GaugeLoadContext
+23-11-2022 11:53:21.939 [dotnet] [DEBUG] Try load System.Reflection.Extensions in GaugeLoadContext
+23-11-2022 11:53:21.939 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 11:53:21.943 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 11:53:21.955 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 11:53:21.957 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 11:53:22.036 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 11:53:22.038 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:53:22.038 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 11:53:22.041 [dotnet] [DEBUG] Try load System.Data.Common in GaugeLoadContext
+23-11-2022 11:53:22.043 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 11:53:22.049 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 11:53:22.055 [Gauge] [DEBUG] * Check that inventory has status "sold"
+23-11-2022 11:53:22.069 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 11:53:22.078 [Gauge] [DEBUG] * Check that inventory has status "pending"
+23-11-2022 11:53:22.080 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 11:53:22.082 [Gauge] [DEBUG] * Check that inventory has status "available"
+23-11-2022 11:53:22.084 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 11:53:22.096 [Gauge] [INFO] # Pet Test Plan
+23-11-2022 11:53:22.099 [Gauge] [INFO] ## The Pet Gets ID
+23-11-2022 11:53:22.102 [Gauge] [DEBUG] * Add Pet to Scenerio with "lol" with "cat"
+23-11-2022 11:53:22.105 [dotnet] [DEBUG] Executing method: AddPet
+23-11-2022 11:53:22.136 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 11:53:22.241 [dotnet] [DEBUG] Try load System.Runtime.Extensions in GaugeLoadContext
+23-11-2022 11:53:22.246 [Gauge] [DEBUG] * Check that pet has "status"
+23-11-2022 11:53:22.254 [Gauge] [ERROR] Failed Step: Check that pet has "status"
+23-11-2022 11:53:22.254 [Gauge] [ERROR] Error Message: Argument length mismatch for Check that pet has "status". Actual Count: 1, Expected Count: 2
+23-11-2022 11:53:22.254 [Gauge] [ERROR] Specification: Applications/PetStore/specs/pet.spec:8
+23-11-2022 11:53:22.254 [Gauge] [ERROR] Stacktrace: 
+23-11-2022 11:53:22.263 [dotnet] [DEBUG] KillProcessrequest received
+23-11-2022 11:53:22.367 [Gauge] [DEBUG] Runner with PID:16278 has exited
+23-11-2022 11:53:22.367 [Gauge] [INFO] Specifications:	2 executed	1 passed	1 failed	0 skipped
+23-11-2022 11:53:22.367 [Gauge] [INFO] Scenarios:	2 executed	1 passed	1 failed	0 skipped
+23-11-2022 11:53:22.367 [Gauge] [INFO] 
+Total time taken: 568ms
+23-11-2022 11:53:22.368 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+23-11-2022 11:54:33.655 [Gauge] [DEBUG] Created gauge_screenshots_dir at /home/josh/QA_Exercise/submission-petstore-3/.gauge/screenshots
+23-11-2022 11:54:33.656 [Gauge] [DEBUG] Plugin dotnet is already installed.
+23-11-2022 11:54:33.656 [Gauge] [DEBUG] Parsing started.
+23-11-2022 11:54:33.657 [Gauge] [DEBUG] Started concepts parsing.
+23-11-2022 11:54:33.658 [Gauge] [DEBUG] 0 concepts parsing completed.
+23-11-2022 11:54:33.658 [Gauge] [DEBUG] Started specifications parsing.
+23-11-2022 11:54:33.659 [Gauge] [DEBUG] 2 specifications parsing completed.
+23-11-2022 11:54:33.659 [Gauge] [DEBUG] Parsing completed.
+23-11-2022 11:54:34.133 [dotnet] [INFO] Microsoft (R) Build Engine version 17.0.1+b177f8fa7 for .NET
+23-11-2022 11:54:34.133 [dotnet] [INFO] Copyright (C) Microsoft Corporation. All rights reserved.
+23-11-2022 11:54:34.830 [Gauge] [DEBUG] Checking updates...
+23-11-2022 11:54:34.831 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/dotnet?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 11:54:36.174 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 11:54:36.687 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 11:54:36.988 [dotnet] [INFO] /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/OpenApiClient/Client/ApiClient.cs(205,34): warning CS0618: 'RestClient.ExecuteTaskAsync(IRestRequest)' is obsolete: 'Use ExecuteAsync instead' [/home/josh/QA_Exercise/submission-petstore-3/solution.csproj]
+23-11-2022 11:54:36.988 [dotnet] [INFO] /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/Steps/PetSteps.cs(15,37): warning CS0169: The field 'PetSteps._Pet' is never used [/home/josh/QA_Exercise/submission-petstore-3/solution.csproj]
+23-11-2022 11:54:37.677 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 11:54:37.690 [dotnet] [DEBUG] Using ExecutableRunnerServiceHandler
+23-11-2022 11:54:37.856 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 39197
+23-11-2022 11:54:37.899 [Gauge] [DEBUG] Successfully made the connection with runner with port: 39197
+23-11-2022 11:54:37.899 [Gauge] [DEBUG] Validation started.
+23-11-2022 11:54:38.657 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 11:54:38.657 [dotnet] [DEBUG] Try load Gauge.CSharp.Lib in GaugeLoadContext
+23-11-2022 11:54:38.661 [dotnet] [DEBUG] Try load solution in GaugeLoadContext
+23-11-2022 11:54:38.661 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:54:38.661 [dotnet] [DEBUG] Try load Microsoft.VisualStudio.TestPlatform.ObjectModel in GaugeLoadContext
+23-11-2022 11:54:38.662 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:54:38.662 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 11:54:38.662 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 11:54:38.662 [dotnet] [DEBUG] Try load Newtonsoft.Json in GaugeLoadContext
+23-11-2022 11:54:38.663 [dotnet] [DEBUG] Try load RestSharp in GaugeLoadContext
+23-11-2022 11:54:38.663 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 11:54:38.663 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 11:54:38.664 [dotnet] [DEBUG] Try load FluentAssertions in GaugeLoadContext
+23-11-2022 11:54:38.665 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 11:54:38.665 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 11:54:38.665 [dotnet] [DEBUG] Try load Microsoft.CSharp in GaugeLoadContext
+23-11-2022 11:54:38.666 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 11:54:38.666 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 11:54:38.666 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 11:54:38.666 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 11:54:38.666 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:54:38.666 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 11:54:38.667 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:54:38.667 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:54:38.671 [dotnet] [DEBUG] Number of AssembliesReferencingGaugeLib : 1
+23-11-2022 11:54:38.671 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:54:38.672 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:54:38.677 [dotnet] [DEBUG] Building StepRegistry...
+23-11-2022 11:54:38.679 [dotnet] [DEBUG] Try load netstandard in GaugeLoadContext
+23-11-2022 11:54:38.682 [dotnet] [DEBUG] 4 Step implementations found. Adding to registry...
+23-11-2022 11:54:38.683 [dotnet] [DEBUG] 'Add Pet to Scenerio with {} with {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 11:54:38.684 [dotnet] [DEBUG] 'Check that pet has {} with {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 11:54:38.684 [dotnet] [DEBUG] 'Get store inventory': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 11:54:38.684 [dotnet] [DEBUG] 'Check that inventory has status {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 11:54:38.687 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 11:54:38.687 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 11:54:38.687 [dotnet] [DEBUG] Loaded Instance Manager of Type:Gauge.CSharp.Lib.DefaultClassInstanceManager
+23-11-2022 11:54:38.747 [Gauge] [DEBUG] Validation completed.
+23-11-2022 11:54:38.747 [Gauge] [DEBUG] Run started
+23-11-2022 11:54:38.747 [Gauge] [DEBUG] Initialising suite data store.
+23-11-2022 11:54:38.785 [Gauge] [INFO] # Store Test Plan
+23-11-2022 11:54:38.800 [Gauge] [INFO] ## The store provides inventory
+23-11-2022 11:54:38.817 [Gauge] [DEBUG] * Get store inventory
+23-11-2022 11:54:38.829 [dotnet] [DEBUG] Executing method: GetStoreInventory
+23-11-2022 11:54:38.831 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 11:54:38.834 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:54:38.838 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 11:54:38.839 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 11:54:38.841 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 11:54:38.843 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:54:38.843 [dotnet] [DEBUG] Try load System.Globalization in GaugeLoadContext
+23-11-2022 11:54:38.855 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 11:54:38.970 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 11:54:38.973 [dotnet] [DEBUG] Try load System.IO in GaugeLoadContext
+23-11-2022 11:54:38.977 [dotnet] [DEBUG] Try load System.Runtime.Extensions in GaugeLoadContext
+23-11-2022 11:54:38.983 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 11:54:38.984 [dotnet] [DEBUG] Try load System.Dynamic.Runtime in GaugeLoadContext
+23-11-2022 11:54:38.985 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 11:54:38.996 [dotnet] [DEBUG] Try load System.Reflection in GaugeLoadContext
+23-11-2022 11:54:39.001 [dotnet] [DEBUG] Try load System.Reflection.Extensions in GaugeLoadContext
+23-11-2022 11:54:39.001 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 11:54:39.005 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 11:54:39.015 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 11:54:39.016 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 11:54:39.093 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 11:54:39.095 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:54:39.095 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 11:54:39.098 [dotnet] [DEBUG] Try load System.Data.Common in GaugeLoadContext
+23-11-2022 11:54:39.101 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 11:54:39.107 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 11:54:39.112 [Gauge] [DEBUG] * Check that inventory has status "sold"
+23-11-2022 11:54:39.125 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 11:54:39.132 [Gauge] [DEBUG] * Check that inventory has status "pending"
+23-11-2022 11:54:39.135 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 11:54:39.136 [Gauge] [DEBUG] * Check that inventory has status "available"
+23-11-2022 11:54:39.139 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 11:54:39.149 [Gauge] [INFO] # Pet Test Plan
+23-11-2022 11:54:39.151 [Gauge] [INFO] ## The Pet Gets ID
+23-11-2022 11:54:39.153 [Gauge] [DEBUG] * Add Pet to Scenerio with "lol" with "cat"
+23-11-2022 11:54:39.156 [dotnet] [DEBUG] Executing method: AddPet
+23-11-2022 11:54:39.196 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 11:54:39.301 [dotnet] [DEBUG] Try load System.Runtime.Extensions in GaugeLoadContext
+23-11-2022 11:54:39.305 [Gauge] [DEBUG] * Check that pet has "lol" with "cat"
+23-11-2022 11:54:39.307 [dotnet] [DEBUG] Executing method: GetPet
+23-11-2022 11:54:39.358 [dotnet] [DEBUG] KillProcessrequest received
+23-11-2022 11:54:39.461 [Gauge] [DEBUG] Runner with PID:16645 has exited
+23-11-2022 11:54:39.461 [Gauge] [INFO] Specifications:	2 executed	2 passed	0 failed	0 skipped
+23-11-2022 11:54:39.461 [Gauge] [INFO] Scenarios:	2 executed	2 passed	0 failed	0 skipped
+23-11-2022 11:54:39.462 [Gauge] [INFO] 
+Total time taken: 608ms
+23-11-2022 11:54:39.462 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+23-11-2022 11:56:14.149 [Gauge] [DEBUG] Created gauge_screenshots_dir at /home/josh/QA_Exercise/submission-petstore-3/.gauge/screenshots
+23-11-2022 11:56:14.149 [Gauge] [DEBUG] Plugin dotnet is already installed.
+23-11-2022 11:56:14.149 [Gauge] [DEBUG] Parsing started.
+23-11-2022 11:56:14.150 [Gauge] [DEBUG] Started concepts parsing.
+23-11-2022 11:56:14.151 [Gauge] [DEBUG] 0 concepts parsing completed.
+23-11-2022 11:56:14.152 [Gauge] [DEBUG] Started specifications parsing.
+23-11-2022 11:56:14.152 [Gauge] [DEBUG] 2 specifications parsing completed.
+23-11-2022 11:56:14.152 [Gauge] [DEBUG] Parsing completed.
+23-11-2022 11:56:14.683 [dotnet] [INFO] Microsoft (R) Build Engine version 17.0.1+b177f8fa7 for .NET
+23-11-2022 11:56:14.683 [dotnet] [INFO] Copyright (C) Microsoft Corporation. All rights reserved.
+23-11-2022 11:56:15.385 [Gauge] [DEBUG] Checking updates...
+23-11-2022 11:56:15.386 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/dotnet?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 11:56:17.226 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 11:56:17.388 [dotnet] [INFO] /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/OpenApiClient/Client/ApiClient.cs(205,34): warning CS0618: 'RestClient.ExecuteTaskAsync(IRestRequest)' is obsolete: 'Use ExecuteAsync instead' [/home/josh/QA_Exercise/submission-petstore-3/solution.csproj]
+23-11-2022 11:56:17.390 [dotnet] [INFO] /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/Steps/PetSteps.cs(15,37): warning CS0169: The field 'PetSteps.pet' is never used [/home/josh/QA_Exercise/submission-petstore-3/solution.csproj]
+23-11-2022 11:56:17.621 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 11:56:18.026 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 11:56:18.035 [dotnet] [DEBUG] Using ExecutableRunnerServiceHandler
+23-11-2022 11:56:18.193 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 40681
+23-11-2022 11:56:18.237 [Gauge] [DEBUG] Successfully made the connection with runner with port: 40681
+23-11-2022 11:56:18.237 [Gauge] [DEBUG] Validation started.
+23-11-2022 11:56:18.962 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 11:56:18.962 [dotnet] [DEBUG] Try load Gauge.CSharp.Lib in GaugeLoadContext
+23-11-2022 11:56:18.966 [dotnet] [DEBUG] Try load solution in GaugeLoadContext
+23-11-2022 11:56:18.967 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:56:18.967 [dotnet] [DEBUG] Try load Microsoft.VisualStudio.TestPlatform.ObjectModel in GaugeLoadContext
+23-11-2022 11:56:18.967 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:56:18.967 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 11:56:18.967 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 11:56:18.968 [dotnet] [DEBUG] Try load Newtonsoft.Json in GaugeLoadContext
+23-11-2022 11:56:18.968 [dotnet] [DEBUG] Try load RestSharp in GaugeLoadContext
+23-11-2022 11:56:18.969 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 11:56:18.969 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 11:56:18.969 [dotnet] [DEBUG] Try load FluentAssertions in GaugeLoadContext
+23-11-2022 11:56:18.970 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 11:56:18.970 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 11:56:18.970 [dotnet] [DEBUG] Try load Microsoft.CSharp in GaugeLoadContext
+23-11-2022 11:56:18.971 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 11:56:18.971 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 11:56:18.971 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 11:56:18.971 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 11:56:18.971 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:56:18.971 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 11:56:18.972 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:56:18.973 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:56:18.977 [dotnet] [DEBUG] Number of AssembliesReferencingGaugeLib : 1
+23-11-2022 11:56:18.977 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:56:18.977 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:56:18.982 [dotnet] [DEBUG] Building StepRegistry...
+23-11-2022 11:56:18.985 [dotnet] [DEBUG] Try load netstandard in GaugeLoadContext
+23-11-2022 11:56:18.988 [dotnet] [DEBUG] 4 Step implementations found. Adding to registry...
+23-11-2022 11:56:18.988 [dotnet] [DEBUG] 'Add Pet to Scenerio with {} with {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 11:56:18.989 [dotnet] [DEBUG] 'Check that pet has {} with {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 11:56:18.990 [dotnet] [DEBUG] 'Get store inventory': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 11:56:18.990 [dotnet] [DEBUG] 'Check that inventory has status {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 11:56:18.994 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 11:56:18.994 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 11:56:18.994 [dotnet] [DEBUG] Loaded Instance Manager of Type:Gauge.CSharp.Lib.DefaultClassInstanceManager
+23-11-2022 11:56:19.057 [Gauge] [DEBUG] Validation completed.
+23-11-2022 11:56:19.057 [Gauge] [DEBUG] Run started
+23-11-2022 11:56:19.057 [Gauge] [DEBUG] Initialising suite data store.
+23-11-2022 11:56:19.091 [Gauge] [INFO] # Store Test Plan
+23-11-2022 11:56:19.103 [Gauge] [INFO] ## The store provides inventory
+23-11-2022 11:56:19.120 [Gauge] [DEBUG] * Get store inventory
+23-11-2022 11:56:19.133 [dotnet] [DEBUG] Executing method: GetStoreInventory
+23-11-2022 11:56:19.135 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 11:56:19.137 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 11:56:19.141 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 11:56:19.141 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 11:56:19.143 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 11:56:19.144 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:56:19.145 [dotnet] [DEBUG] Try load System.Globalization in GaugeLoadContext
+23-11-2022 11:56:19.155 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 11:56:19.262 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 11:56:19.266 [dotnet] [DEBUG] Try load System.IO in GaugeLoadContext
+23-11-2022 11:56:19.270 [dotnet] [DEBUG] Try load System.Runtime.Extensions in GaugeLoadContext
+23-11-2022 11:56:19.277 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 11:56:19.277 [dotnet] [DEBUG] Try load System.Dynamic.Runtime in GaugeLoadContext
+23-11-2022 11:56:19.278 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 11:56:19.288 [dotnet] [DEBUG] Try load System.Reflection in GaugeLoadContext
+23-11-2022 11:56:19.292 [dotnet] [DEBUG] Try load System.Reflection.Extensions in GaugeLoadContext
+23-11-2022 11:56:19.293 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 11:56:19.296 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 11:56:19.306 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 11:56:19.307 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 11:56:19.381 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 11:56:19.382 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 11:56:19.382 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 11:56:19.386 [dotnet] [DEBUG] Try load System.Data.Common in GaugeLoadContext
+23-11-2022 11:56:19.388 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 11:56:19.393 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 11:56:19.398 [Gauge] [DEBUG] * Check that inventory has status "sold"
+23-11-2022 11:56:19.413 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 11:56:19.420 [Gauge] [DEBUG] * Check that inventory has status "pending"
+23-11-2022 11:56:19.423 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 11:56:19.425 [Gauge] [DEBUG] * Check that inventory has status "available"
+23-11-2022 11:56:19.427 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 11:56:19.439 [Gauge] [INFO] # Pet Test Plan
+23-11-2022 11:56:19.442 [Gauge] [INFO] ## The Pet Gets ID
+23-11-2022 11:56:19.445 [Gauge] [DEBUG] * Add Pet to Scenerio with "lol" with "cat"
+23-11-2022 11:56:19.447 [dotnet] [DEBUG] Executing method: AddPet
+23-11-2022 11:56:19.482 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 11:56:19.586 [dotnet] [DEBUG] Try load System.Runtime.Extensions in GaugeLoadContext
+23-11-2022 11:56:19.590 [Gauge] [DEBUG] * Check that pet has "lol" with "cat"
+23-11-2022 11:56:19.592 [dotnet] [DEBUG] Executing method: GetPet
+23-11-2022 11:56:19.641 [dotnet] [DEBUG] KillProcessrequest received
+23-11-2022 11:56:19.745 [Gauge] [DEBUG] Runner with PID:16999 has exited
+23-11-2022 11:56:19.745 [Gauge] [INFO] Specifications:	2 executed	2 passed	0 failed	0 skipped
+23-11-2022 11:56:19.745 [Gauge] [INFO] Scenarios:	2 executed	2 passed	0 failed	0 skipped
+23-11-2022 11:56:19.745 [Gauge] [INFO] 
+Total time taken: 582ms
+23-11-2022 11:56:19.746 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+23-11-2022 12:23:19.438 [Gauge] [DEBUG] Created gauge_screenshots_dir at /home/josh/QA_Exercise/submission-petstore-3/.gauge/screenshots
+23-11-2022 12:23:19.439 [Gauge] [DEBUG] Plugin dotnet is already installed.
+23-11-2022 12:23:19.440 [Gauge] [DEBUG] Parsing started.
+23-11-2022 12:23:19.440 [Gauge] [DEBUG] Started concepts parsing.
+23-11-2022 12:23:19.442 [Gauge] [DEBUG] 0 concepts parsing completed.
+23-11-2022 12:23:19.442 [Gauge] [DEBUG] Started specifications parsing.
+23-11-2022 12:23:19.443 [Gauge] [DEBUG] 2 specifications parsing completed.
+23-11-2022 12:23:19.443 [Gauge] [DEBUG] Parsing completed.
+23-11-2022 12:23:19.898 [dotnet] [INFO] Microsoft (R) Build Engine version 17.0.1+b177f8fa7 for .NET
+23-11-2022 12:23:19.898 [dotnet] [INFO] Copyright (C) Microsoft Corporation. All rights reserved.
+23-11-2022 12:23:20.539 [Gauge] [DEBUG] Checking updates...
+23-11-2022 12:23:20.539 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/dotnet?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 12:23:22.498 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 12:23:23.130 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 12:23:23.299 [dotnet] [INFO] /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/OpenApiClient/Client/ApiClient.cs(205,34): warning CS0618: 'RestClient.ExecuteTaskAsync(IRestRequest)' is obsolete: 'Use ExecuteAsync instead' [/home/josh/QA_Exercise/submission-petstore-3/solution.csproj]
+23-11-2022 12:23:23.300 [dotnet] [INFO] /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/Steps/PetSteps.cs(11,37): warning CS0169: The field 'PetSteps.pet' is never used [/home/josh/QA_Exercise/submission-petstore-3/solution.csproj]
+23-11-2022 12:23:24.213 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 12:23:24.221 [dotnet] [DEBUG] Using ExecutableRunnerServiceHandler
+23-11-2022 12:23:24.380 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 35331
+23-11-2022 12:23:24.433 [Gauge] [DEBUG] Successfully made the connection with runner with port: 35331
+23-11-2022 12:23:24.433 [Gauge] [DEBUG] Validation started.
+23-11-2022 12:23:25.149 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 12:23:25.149 [dotnet] [DEBUG] Try load Gauge.CSharp.Lib in GaugeLoadContext
+23-11-2022 12:23:25.153 [dotnet] [DEBUG] Try load solution in GaugeLoadContext
+23-11-2022 12:23:25.154 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 12:23:25.154 [dotnet] [DEBUG] Try load Microsoft.VisualStudio.TestPlatform.ObjectModel in GaugeLoadContext
+23-11-2022 12:23:25.154 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 12:23:25.154 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 12:23:25.154 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 12:23:25.168 [dotnet] [DEBUG] Try load Newtonsoft.Json in GaugeLoadContext
+23-11-2022 12:23:25.169 [dotnet] [DEBUG] Try load RestSharp in GaugeLoadContext
+23-11-2022 12:23:25.170 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 12:23:25.170 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 12:23:25.170 [dotnet] [DEBUG] Try load FluentAssertions in GaugeLoadContext
+23-11-2022 12:23:25.171 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 12:23:25.171 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 12:23:25.171 [dotnet] [DEBUG] Try load Microsoft.CSharp in GaugeLoadContext
+23-11-2022 12:23:25.172 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 12:23:25.172 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 12:23:25.172 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 12:23:25.172 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 12:23:25.172 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 12:23:25.172 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 12:23:25.173 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 12:23:25.174 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 12:23:25.178 [dotnet] [DEBUG] Number of AssembliesReferencingGaugeLib : 1
+23-11-2022 12:23:25.178 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 12:23:25.178 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 12:23:25.183 [dotnet] [DEBUG] Building StepRegistry...
+23-11-2022 12:23:25.185 [dotnet] [DEBUG] Try load netstandard in GaugeLoadContext
+23-11-2022 12:23:25.188 [dotnet] [DEBUG] 4 Step implementations found. Adding to registry...
+23-11-2022 12:23:25.189 [dotnet] [DEBUG] 'Add Pet to Scenerio with {} with {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 12:23:25.190 [dotnet] [DEBUG] 'Check that pet has {} with {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 12:23:25.190 [dotnet] [DEBUG] 'Get store inventory': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 12:23:25.190 [dotnet] [DEBUG] 'Check that inventory has status {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 12:23:25.194 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 12:23:25.195 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 12:23:25.195 [dotnet] [DEBUG] Loaded Instance Manager of Type:Gauge.CSharp.Lib.DefaultClassInstanceManager
+23-11-2022 12:23:25.258 [Gauge] [DEBUG] Validation completed.
+23-11-2022 12:23:25.258 [Gauge] [DEBUG] Run started
+23-11-2022 12:23:25.259 [Gauge] [DEBUG] Initialising suite data store.
+23-11-2022 12:23:25.296 [Gauge] [INFO] # Store Test Plan
+23-11-2022 12:23:25.309 [Gauge] [INFO] ## The store provides inventory
+23-11-2022 12:23:25.332 [Gauge] [DEBUG] * Get store inventory
+23-11-2022 12:23:25.343 [dotnet] [DEBUG] Executing method: GetStoreInventory
+23-11-2022 12:23:25.345 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 12:23:25.348 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 12:23:25.352 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 12:23:25.352 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 12:23:25.354 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 12:23:25.355 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 12:23:25.356 [dotnet] [DEBUG] Try load System.Globalization in GaugeLoadContext
+23-11-2022 12:23:25.375 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 12:23:25.485 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 12:23:25.488 [dotnet] [DEBUG] Try load System.IO in GaugeLoadContext
+23-11-2022 12:23:25.492 [dotnet] [DEBUG] Try load System.Runtime.Extensions in GaugeLoadContext
+23-11-2022 12:23:25.499 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 12:23:25.499 [dotnet] [DEBUG] Try load System.Dynamic.Runtime in GaugeLoadContext
+23-11-2022 12:23:25.500 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 12:23:25.510 [dotnet] [DEBUG] Try load System.Reflection in GaugeLoadContext
+23-11-2022 12:23:25.515 [dotnet] [DEBUG] Try load System.Reflection.Extensions in GaugeLoadContext
+23-11-2022 12:23:25.515 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 12:23:25.518 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 12:23:25.528 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 12:23:25.529 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 12:23:25.604 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 12:23:25.606 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 12:23:25.606 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 12:23:25.610 [dotnet] [DEBUG] Try load System.Data.Common in GaugeLoadContext
+23-11-2022 12:23:25.612 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 12:23:25.617 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 12:23:25.622 [Gauge] [DEBUG] * Check that inventory has status "sold"
+23-11-2022 12:23:25.636 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 12:23:25.646 [Gauge] [DEBUG] * Check that inventory has status "pending"
+23-11-2022 12:23:25.648 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 12:23:25.650 [Gauge] [DEBUG] * Check that inventory has status "available"
+23-11-2022 12:23:25.652 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 12:23:25.663 [Gauge] [INFO] # Pet Test Plan
+23-11-2022 12:23:25.666 [Gauge] [INFO] ## The Pet Gets ID
+23-11-2022 12:23:25.669 [Gauge] [DEBUG] * Add Pet to Scenerio with "lol" with "cat"
+23-11-2022 12:23:25.671 [dotnet] [DEBUG] Executing method: AddPet
+23-11-2022 12:23:25.704 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 12:23:25.806 [dotnet] [DEBUG] Try load System.Runtime.Extensions in GaugeLoadContext
+23-11-2022 12:23:25.810 [Gauge] [DEBUG] * Check that pet has "lol" with "cat"
+23-11-2022 12:23:25.828 [dotnet] [DEBUG] Executing method: GetPet
+23-11-2022 12:23:25.874 [dotnet] [DEBUG] KillProcessrequest received
+23-11-2022 12:23:25.978 [Gauge] [DEBUG] Runner with PID:17724 has exited
+23-11-2022 12:23:25.978 [Gauge] [INFO] Specifications:	2 executed	2 passed	0 failed	0 skipped
+23-11-2022 12:23:25.979 [Gauge] [INFO] Scenarios:	2 executed	2 passed	0 failed	0 skipped
+23-11-2022 12:23:25.979 [Gauge] [INFO] 
+Total time taken: 613ms
+23-11-2022 12:23:25.979 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+23-11-2022 13:48:26.503 [Gauge] [DEBUG] Created gauge_screenshots_dir at /home/josh/QA_Exercise/submission-petstore-3/.gauge/screenshots
+23-11-2022 13:48:26.505 [Gauge] [DEBUG] Plugin dotnet is already installed.
+23-11-2022 13:48:26.506 [Gauge] [DEBUG] Parsing started.
+23-11-2022 13:48:26.506 [Gauge] [DEBUG] Started concepts parsing.
+23-11-2022 13:48:26.510 [Gauge] [DEBUG] 0 concepts parsing completed.
+23-11-2022 13:48:26.512 [Gauge] [DEBUG] Started specifications parsing.
+23-11-2022 13:48:26.513 [Gauge] [DEBUG] 2 specifications parsing completed.
+23-11-2022 13:48:26.514 [Gauge] [DEBUG] Parsing completed.
+23-11-2022 13:48:27.014 [dotnet] [INFO] Microsoft (R) Build Engine version 17.0.1+b177f8fa7 for .NET
+23-11-2022 13:48:27.014 [dotnet] [INFO] Copyright (C) Microsoft Corporation. All rights reserved.
+23-11-2022 13:48:27.508 [Gauge] [DEBUG] Checking updates...
+23-11-2022 13:48:27.508 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/dotnet?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 13:48:29.355 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 13:48:29.969 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 13:48:30.277 [dotnet] [INFO] /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/OpenApiClient/Client/ApiClient.cs(205,34): warning CS0618: 'RestClient.ExecuteTaskAsync(IRestRequest)' is obsolete: 'Use ExecuteAsync instead' [/home/josh/QA_Exercise/submission-petstore-3/solution.csproj]
+23-11-2022 13:48:30.277 [dotnet] [INFO] /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/Steps/PetSteps.cs(11,37): warning CS0169: The field 'PetSteps.pet' is never used [/home/josh/QA_Exercise/submission-petstore-3/solution.csproj]
+23-11-2022 13:48:31.077 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 13:48:31.088 [dotnet] [DEBUG] Using ExecutableRunnerServiceHandler
+23-11-2022 13:48:31.262 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 34093
+23-11-2022 13:48:31.336 [Gauge] [DEBUG] Successfully made the connection with runner with port: 34093
+23-11-2022 13:48:31.336 [Gauge] [DEBUG] Validation started.
+23-11-2022 13:48:32.129 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 13:48:32.130 [dotnet] [DEBUG] Try load Gauge.CSharp.Lib in GaugeLoadContext
+23-11-2022 13:48:32.138 [dotnet] [DEBUG] Try load solution in GaugeLoadContext
+23-11-2022 13:48:32.138 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 13:48:32.138 [dotnet] [DEBUG] Try load Microsoft.VisualStudio.TestPlatform.ObjectModel in GaugeLoadContext
+23-11-2022 13:48:32.140 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 13:48:32.140 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 13:48:32.140 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 13:48:32.141 [dotnet] [DEBUG] Try load Newtonsoft.Json in GaugeLoadContext
+23-11-2022 13:48:32.144 [dotnet] [DEBUG] Try load RestSharp in GaugeLoadContext
+23-11-2022 13:48:32.146 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 13:48:32.146 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 13:48:32.147 [dotnet] [DEBUG] Try load FluentAssertions in GaugeLoadContext
+23-11-2022 13:48:32.151 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 13:48:32.151 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 13:48:32.151 [dotnet] [DEBUG] Try load Microsoft.CSharp in GaugeLoadContext
+23-11-2022 13:48:32.155 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 13:48:32.155 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 13:48:32.155 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 13:48:32.155 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 13:48:32.155 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 13:48:32.156 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 13:48:32.156 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 13:48:32.157 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 13:48:32.162 [dotnet] [DEBUG] Number of AssembliesReferencingGaugeLib : 1
+23-11-2022 13:48:32.163 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 13:48:32.163 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 13:48:32.168 [dotnet] [DEBUG] Building StepRegistry...
+23-11-2022 13:48:32.171 [dotnet] [DEBUG] Try load netstandard in GaugeLoadContext
+23-11-2022 13:48:32.174 [dotnet] [DEBUG] 5 Step implementations found. Adding to registry...
+23-11-2022 13:48:32.175 [dotnet] [DEBUG] 'Add Pet to Scenerio with {} with {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 13:48:32.176 [dotnet] [DEBUG] 'Check that pet has {} with {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 13:48:32.176 [dotnet] [DEBUG] 'Delete a Pet': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 13:48:32.176 [dotnet] [DEBUG] 'Get store inventory': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 13:48:32.176 [dotnet] [DEBUG] 'Check that inventory has status {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 13:48:32.181 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 13:48:32.181 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 13:48:32.182 [dotnet] [DEBUG] Loaded Instance Manager of Type:Gauge.CSharp.Lib.DefaultClassInstanceManager
+23-11-2022 13:48:32.270 [Gauge] [DEBUG] Validation completed.
+23-11-2022 13:48:32.270 [Gauge] [DEBUG] Run started
+23-11-2022 13:48:32.271 [Gauge] [DEBUG] Initialising suite data store.
+23-11-2022 13:48:32.318 [Gauge] [INFO] # Store Test Plan
+23-11-2022 13:48:32.338 [Gauge] [INFO] ## The store provides inventory
+23-11-2022 13:48:32.358 [Gauge] [DEBUG] * Get store inventory
+23-11-2022 13:48:32.373 [dotnet] [DEBUG] Executing method: GetStoreInventory
+23-11-2022 13:48:32.376 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 13:48:32.378 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 13:48:32.384 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 13:48:32.385 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 13:48:32.386 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 13:48:32.388 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 13:48:32.388 [dotnet] [DEBUG] Try load System.Globalization in GaugeLoadContext
+23-11-2022 13:48:32.398 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 13:48:32.529 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 13:48:32.533 [dotnet] [DEBUG] Try load System.IO in GaugeLoadContext
+23-11-2022 13:48:32.536 [dotnet] [DEBUG] Try load System.Runtime.Extensions in GaugeLoadContext
+23-11-2022 13:48:32.543 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 13:48:32.544 [dotnet] [DEBUG] Try load System.Dynamic.Runtime in GaugeLoadContext
+23-11-2022 13:48:32.545 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 13:48:32.554 [dotnet] [DEBUG] Try load System.Reflection in GaugeLoadContext
+23-11-2022 13:48:32.559 [dotnet] [DEBUG] Try load System.Reflection.Extensions in GaugeLoadContext
+23-11-2022 13:48:32.560 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 13:48:32.563 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 13:48:32.573 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 13:48:32.574 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 13:48:32.655 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 13:48:32.656 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 13:48:32.657 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 13:48:32.660 [dotnet] [DEBUG] Try load System.Data.Common in GaugeLoadContext
+23-11-2022 13:48:32.663 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 13:48:32.668 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 13:48:32.674 [Gauge] [DEBUG] * Check that inventory has status "sold"
+23-11-2022 13:48:32.695 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 13:48:32.703 [Gauge] [DEBUG] * Check that inventory has status "pending"
+23-11-2022 13:48:32.706 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 13:48:32.708 [Gauge] [DEBUG] * Check that inventory has status "available"
+23-11-2022 13:48:32.711 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 13:48:32.721 [Gauge] [INFO] # Pet Test Plan
+23-11-2022 13:48:32.723 [Gauge] [INFO] ## The Pet Gets ID
+23-11-2022 13:48:32.726 [Gauge] [DEBUG] * Add Pet to Scenerio with "lol" with "cat"
+23-11-2022 13:48:32.728 [dotnet] [DEBUG] Executing method: AddPet
+23-11-2022 13:48:32.760 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 13:48:32.872 [dotnet] [DEBUG] Try load System.Runtime.Extensions in GaugeLoadContext
+23-11-2022 13:48:32.876 [Gauge] [DEBUG] * Check that pet has "lol" with "cat"
+23-11-2022 13:48:32.879 [dotnet] [DEBUG] Executing method: GetPet
+23-11-2022 13:48:32.918 [Gauge] [DEBUG] * Delete a Pet
+23-11-2022 13:48:32.927 [Gauge] [ERROR] Failed Step: Delete a Pet
+23-11-2022 13:48:32.927 [Gauge] [ERROR] Error Message: Argument length mismatch for Delete a Pet. Actual Count: 0, Expected Count: 2
+23-11-2022 13:48:32.927 [Gauge] [ERROR] Specification: Applications/PetStore/specs/pet.spec:9
+23-11-2022 13:48:32.927 [Gauge] [ERROR] Stacktrace: 
+23-11-2022 13:48:32.948 [dotnet] [DEBUG] KillProcessrequest received
+23-11-2022 13:48:32.960 [Gauge] [ERROR] Failed to kill Runner: rpc error: code = Unavailable desc = error reading from server: EOF
+23-11-2022 13:48:32.960 [Gauge] [INFO] Specifications:	2 executed	1 passed	1 failed	0 skipped
+23-11-2022 13:48:32.960 [Gauge] [INFO] Scenarios:	2 executed	1 passed	1 failed	0 skipped
+23-11-2022 13:48:32.960 [Gauge] [INFO] 
+Total time taken: 675ms
+23-11-2022 13:48:32.960 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+23-11-2022 13:51:09.251 [Gauge] [DEBUG] Created gauge_screenshots_dir at /home/josh/QA_Exercise/submission-petstore-3/.gauge/screenshots
+23-11-2022 13:51:09.252 [Gauge] [DEBUG] Plugin dotnet is already installed.
+23-11-2022 13:51:09.253 [Gauge] [DEBUG] Parsing started.
+23-11-2022 13:51:09.253 [Gauge] [DEBUG] Started concepts parsing.
+23-11-2022 13:51:09.258 [Gauge] [DEBUG] 0 concepts parsing completed.
+23-11-2022 13:51:09.260 [Gauge] [DEBUG] Started specifications parsing.
+23-11-2022 13:51:09.261 [Gauge] [DEBUG] 2 specifications parsing completed.
+23-11-2022 13:51:09.262 [Gauge] [DEBUG] Parsing completed.
+23-11-2022 13:51:09.728 [dotnet] [INFO] Microsoft (R) Build Engine version 17.0.1+b177f8fa7 for .NET
+23-11-2022 13:51:09.728 [dotnet] [INFO] Copyright (C) Microsoft Corporation. All rights reserved.
+23-11-2022 13:51:10.633 [Gauge] [DEBUG] Checking updates...
+23-11-2022 13:51:10.634 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/dotnet?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 13:51:12.078 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 13:51:12.480 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 13:51:12.552 [dotnet] [INFO] /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/OpenApiClient/Client/ApiClient.cs(205,34): warning CS0618: 'RestClient.ExecuteTaskAsync(IRestRequest)' is obsolete: 'Use ExecuteAsync instead' [/home/josh/QA_Exercise/submission-petstore-3/solution.csproj]
+23-11-2022 13:51:12.553 [dotnet] [INFO] /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/Steps/PetSteps.cs(11,37): warning CS0169: The field 'PetSteps.pet' is never used [/home/josh/QA_Exercise/submission-petstore-3/solution.csproj]
+23-11-2022 13:51:13.256 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 13:51:13.265 [dotnet] [DEBUG] Using ExecutableRunnerServiceHandler
+23-11-2022 13:51:13.428 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 42687
+23-11-2022 13:51:13.470 [Gauge] [DEBUG] Successfully made the connection with runner with port: 42687
+23-11-2022 13:51:13.470 [Gauge] [DEBUG] Validation started.
+23-11-2022 13:51:14.205 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 13:51:14.205 [dotnet] [DEBUG] Try load Gauge.CSharp.Lib in GaugeLoadContext
+23-11-2022 13:51:14.210 [dotnet] [DEBUG] Try load solution in GaugeLoadContext
+23-11-2022 13:51:14.211 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 13:51:14.211 [dotnet] [DEBUG] Try load Microsoft.VisualStudio.TestPlatform.ObjectModel in GaugeLoadContext
+23-11-2022 13:51:14.211 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 13:51:14.211 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 13:51:14.211 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 13:51:14.212 [dotnet] [DEBUG] Try load Newtonsoft.Json in GaugeLoadContext
+23-11-2022 13:51:14.212 [dotnet] [DEBUG] Try load RestSharp in GaugeLoadContext
+23-11-2022 13:51:14.212 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 13:51:14.212 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 13:51:14.213 [dotnet] [DEBUG] Try load FluentAssertions in GaugeLoadContext
+23-11-2022 13:51:14.214 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 13:51:14.214 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 13:51:14.214 [dotnet] [DEBUG] Try load Microsoft.CSharp in GaugeLoadContext
+23-11-2022 13:51:14.214 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 13:51:14.215 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 13:51:14.215 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 13:51:14.215 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 13:51:14.215 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 13:51:14.215 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 13:51:14.216 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 13:51:14.216 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 13:51:14.220 [dotnet] [DEBUG] Number of AssembliesReferencingGaugeLib : 1
+23-11-2022 13:51:14.220 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 13:51:14.220 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 13:51:14.225 [dotnet] [DEBUG] Building StepRegistry...
+23-11-2022 13:51:14.228 [dotnet] [DEBUG] Try load netstandard in GaugeLoadContext
+23-11-2022 13:51:14.231 [dotnet] [DEBUG] 5 Step implementations found. Adding to registry...
+23-11-2022 13:51:14.231 [dotnet] [DEBUG] 'Add Pet to Scenerio with {} with {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 13:51:14.232 [dotnet] [DEBUG] 'Check that pet has {} with {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 13:51:14.233 [dotnet] [DEBUG] 'Delete a Pet': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 13:51:14.233 [dotnet] [DEBUG] 'Get store inventory': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 13:51:14.233 [dotnet] [DEBUG] 'Check that inventory has status {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 13:51:14.236 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 13:51:14.236 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 13:51:14.236 [dotnet] [DEBUG] Loaded Instance Manager of Type:Gauge.CSharp.Lib.DefaultClassInstanceManager
+23-11-2022 13:51:14.301 [Gauge] [DEBUG] Validation completed.
+23-11-2022 13:51:14.301 [Gauge] [DEBUG] Run started
+23-11-2022 13:51:14.301 [Gauge] [DEBUG] Initialising suite data store.
+23-11-2022 13:51:14.340 [Gauge] [INFO] # Store Test Plan
+23-11-2022 13:51:14.352 [Gauge] [INFO] ## The store provides inventory
+23-11-2022 13:51:14.366 [Gauge] [DEBUG] * Get store inventory
+23-11-2022 13:51:14.378 [dotnet] [DEBUG] Executing method: GetStoreInventory
+23-11-2022 13:51:14.380 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 13:51:14.382 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 13:51:14.385 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 13:51:14.385 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 13:51:14.386 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 13:51:14.387 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 13:51:14.388 [dotnet] [DEBUG] Try load System.Globalization in GaugeLoadContext
+23-11-2022 13:51:14.401 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 13:51:14.511 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 13:51:14.514 [dotnet] [DEBUG] Try load System.IO in GaugeLoadContext
+23-11-2022 13:51:14.517 [dotnet] [DEBUG] Try load System.Runtime.Extensions in GaugeLoadContext
+23-11-2022 13:51:14.524 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 13:51:14.525 [dotnet] [DEBUG] Try load System.Dynamic.Runtime in GaugeLoadContext
+23-11-2022 13:51:14.525 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 13:51:14.535 [dotnet] [DEBUG] Try load System.Reflection in GaugeLoadContext
+23-11-2022 13:51:14.539 [dotnet] [DEBUG] Try load System.Reflection.Extensions in GaugeLoadContext
+23-11-2022 13:51:14.540 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 13:51:14.543 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 13:51:14.552 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 13:51:14.554 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 13:51:14.628 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 13:51:14.629 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 13:51:14.630 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 13:51:14.633 [dotnet] [DEBUG] Try load System.Data.Common in GaugeLoadContext
+23-11-2022 13:51:14.635 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 13:51:14.640 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 13:51:14.645 [Gauge] [DEBUG] * Check that inventory has status "sold"
+23-11-2022 13:51:14.660 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 13:51:14.669 [Gauge] [DEBUG] * Check that inventory has status "pending"
+23-11-2022 13:51:14.671 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 13:51:14.672 [Gauge] [DEBUG] * Check that inventory has status "available"
+23-11-2022 13:51:14.675 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 13:51:14.687 [Gauge] [INFO] # Pet Test Plan
+23-11-2022 13:51:14.690 [Gauge] [INFO] ## The Pet Gets ID
+23-11-2022 13:51:14.693 [Gauge] [DEBUG] * Add Pet to Scenerio with "lol" with "cat"
+23-11-2022 13:51:14.695 [dotnet] [DEBUG] Executing method: AddPet
+23-11-2022 13:51:14.732 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 13:51:14.832 [dotnet] [DEBUG] Try load System.Runtime.Extensions in GaugeLoadContext
+23-11-2022 13:51:14.836 [Gauge] [DEBUG] * Check that pet has "lol" with "cat"
+
+23-11-2022 13:51:14.838 [dotnet] [DEBUG] Executing method: GetPet
+23-11-2022 13:51:14.877 [Gauge] [INFO] ## Delete The Pet ID
+23-11-2022 13:51:14.879 [Gauge] [DEBUG] * Delete a Pet
+23-11-2022 13:51:14.887 [Gauge] [ERROR] Failed Step: Delete a Pet
+23-11-2022 13:51:14.887 [Gauge] [ERROR] Error Message: Argument length mismatch for Delete a Pet. Actual Count: 0, Expected Count: 2
+23-11-2022 13:51:14.887 [Gauge] [ERROR] Specification: Applications/PetStore/specs/pet.spec:12
+23-11-2022 13:51:14.887 [Gauge] [ERROR] Stacktrace: 
+23-11-2022 13:51:14.896 [dotnet] [DEBUG] KillProcessrequest received
+23-11-2022 13:51:14.916 [Gauge] [ERROR] Failed to kill Runner: rpc error: code = Unavailable desc = error reading from server: EOF
+23-11-2022 13:51:14.916 [Gauge] [INFO] Specifications:	2 executed	1 passed	1 failed	0 skipped
+23-11-2022 13:51:14.916 [Gauge] [INFO] Scenarios:	3 executed	2 passed	1 failed	0 skipped
+23-11-2022 13:51:14.916 [Gauge] [INFO] 
+Total time taken: 592ms
+23-11-2022 13:51:14.916 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+23-11-2022 13:52:51.874 [Gauge] [DEBUG] Created gauge_screenshots_dir at /home/josh/QA_Exercise/submission-petstore-3/.gauge/screenshots
+23-11-2022 13:52:51.875 [Gauge] [DEBUG] Plugin dotnet is already installed.
+23-11-2022 13:52:51.876 [Gauge] [DEBUG] Parsing started.
+23-11-2022 13:52:51.876 [Gauge] [DEBUG] Started concepts parsing.
+23-11-2022 13:52:51.881 [Gauge] [DEBUG] 0 concepts parsing completed.
+23-11-2022 13:52:51.883 [Gauge] [DEBUG] Started specifications parsing.
+23-11-2022 13:52:51.884 [Gauge] [DEBUG] 2 specifications parsing completed.
+23-11-2022 13:52:51.884 [Gauge] [DEBUG] Parsing completed.
+23-11-2022 13:52:52.347 [dotnet] [INFO] Microsoft (R) Build Engine version 17.0.1+b177f8fa7 for .NET
+23-11-2022 13:52:52.347 [dotnet] [INFO] Copyright (C) Microsoft Corporation. All rights reserved.
+23-11-2022 13:52:53.171 [Gauge] [DEBUG] Checking updates...
+23-11-2022 13:52:53.172 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/dotnet?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 13:52:54.749 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 13:52:55.077 [dotnet] [INFO] /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/OpenApiClient/Client/ApiClient.cs(205,34): warning CS0618: 'RestClient.ExecuteTaskAsync(IRestRequest)' is obsolete: 'Use ExecuteAsync instead' [/home/josh/QA_Exercise/submission-petstore-3/solution.csproj]
+23-11-2022 13:52:55.077 [dotnet] [INFO] /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/Steps/PetSteps.cs(11,37): warning CS0169: The field 'PetSteps.pet' is never used [/home/josh/QA_Exercise/submission-petstore-3/solution.csproj]
+23-11-2022 13:52:55.088 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 13:52:55.707 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 13:52:55.716 [dotnet] [DEBUG] Using ExecutableRunnerServiceHandler
+23-11-2022 13:52:55.873 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 43269
+23-11-2022 13:52:55.914 [Gauge] [DEBUG] Successfully made the connection with runner with port: 43269
+23-11-2022 13:52:55.914 [Gauge] [DEBUG] Validation started.
+23-11-2022 13:52:56.678 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 13:52:56.678 [dotnet] [DEBUG] Try load Gauge.CSharp.Lib in GaugeLoadContext
+23-11-2022 13:52:56.682 [dotnet] [DEBUG] Try load solution in GaugeLoadContext
+23-11-2022 13:52:56.683 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 13:52:56.683 [dotnet] [DEBUG] Try load Microsoft.VisualStudio.TestPlatform.ObjectModel in GaugeLoadContext
+23-11-2022 13:52:56.683 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 13:52:56.683 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 13:52:56.683 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 13:52:56.684 [dotnet] [DEBUG] Try load Newtonsoft.Json in GaugeLoadContext
+23-11-2022 13:52:56.684 [dotnet] [DEBUG] Try load RestSharp in GaugeLoadContext
+23-11-2022 13:52:56.685 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 13:52:56.685 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 13:52:56.686 [dotnet] [DEBUG] Try load FluentAssertions in GaugeLoadContext
+23-11-2022 13:52:56.686 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 13:52:56.686 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 13:52:56.687 [dotnet] [DEBUG] Try load Microsoft.CSharp in GaugeLoadContext
+23-11-2022 13:52:56.687 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 13:52:56.687 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 13:52:56.687 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 13:52:56.687 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 13:52:56.687 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 13:52:56.688 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 13:52:56.689 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 13:52:56.689 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 13:52:56.693 [dotnet] [DEBUG] Number of AssembliesReferencingGaugeLib : 1
+23-11-2022 13:52:56.693 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 13:52:56.693 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 13:52:56.699 [dotnet] [DEBUG] Building StepRegistry...
+23-11-2022 13:52:56.701 [dotnet] [DEBUG] Try load netstandard in GaugeLoadContext
+23-11-2022 13:52:56.704 [dotnet] [DEBUG] 5 Step implementations found. Adding to registry...
+23-11-2022 13:52:56.705 [dotnet] [DEBUG] 'Add Pet to Scenerio with {} with {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 13:52:56.706 [dotnet] [DEBUG] 'Check that pet has {} with {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 13:52:56.707 [dotnet] [DEBUG] 'Delete a Pet {} with {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 13:52:56.707 [dotnet] [DEBUG] 'Get store inventory': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 13:52:56.707 [dotnet] [DEBUG] 'Check that inventory has status {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 13:52:56.711 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 13:52:56.712 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 13:52:56.712 [dotnet] [DEBUG] Loaded Instance Manager of Type:Gauge.CSharp.Lib.DefaultClassInstanceManager
+23-11-2022 13:52:56.774 [Gauge] [DEBUG] Validation completed.
+23-11-2022 13:52:56.774 [Gauge] [DEBUG] Run started
+23-11-2022 13:52:56.774 [Gauge] [DEBUG] Initialising suite data store.
+23-11-2022 13:52:56.809 [Gauge] [INFO] # Store Test Plan
+23-11-2022 13:52:56.823 [Gauge] [INFO] ## The store provides inventory
+23-11-2022 13:52:56.838 [Gauge] [DEBUG] * Get store inventory
+23-11-2022 13:52:56.851 [dotnet] [DEBUG] Executing method: GetStoreInventory
+23-11-2022 13:52:56.853 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 13:52:56.855 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 13:52:56.858 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 13:52:56.859 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 13:52:56.861 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 13:52:56.862 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 13:52:56.862 [dotnet] [DEBUG] Try load System.Globalization in GaugeLoadContext
+23-11-2022 13:52:56.873 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 13:52:56.982 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 13:52:56.985 [dotnet] [DEBUG] Try load System.IO in GaugeLoadContext
+23-11-2022 13:52:56.989 [dotnet] [DEBUG] Try load System.Runtime.Extensions in GaugeLoadContext
+23-11-2022 13:52:56.995 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 13:52:56.996 [dotnet] [DEBUG] Try load System.Dynamic.Runtime in GaugeLoadContext
+23-11-2022 13:52:56.997 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 13:52:57.008 [dotnet] [DEBUG] Try load System.Reflection in GaugeLoadContext
+23-11-2022 13:52:57.013 [dotnet] [DEBUG] Try load System.Reflection.Extensions in GaugeLoadContext
+23-11-2022 13:52:57.013 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 13:52:57.018 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 13:52:57.029 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 13:52:57.031 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 13:52:57.106 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 13:52:57.108 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 13:52:57.108 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 13:52:57.111 [dotnet] [DEBUG] Try load System.Data.Common in GaugeLoadContext
+23-11-2022 13:52:57.114 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 13:52:57.119 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 13:52:57.124 [Gauge] [DEBUG] * Check that inventory has status "sold"
+23-11-2022 13:52:57.138 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 13:52:57.147 [Gauge] [DEBUG] * Check that inventory has status "pending"
+23-11-2022 13:52:57.149 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 13:52:57.151 [Gauge] [DEBUG] * Check that inventory has status "available"
+23-11-2022 13:52:57.153 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 13:52:57.164 [Gauge] [INFO] # Pet Test Plan
+23-11-2022 13:52:57.168 [Gauge] [INFO] ## The Pet Gets ID
+23-11-2022 13:52:57.171 [Gauge] [DEBUG] * Add Pet to Scenerio with "lol" with "cat"
+23-11-2022 13:52:57.174 [dotnet] [DEBUG] Executing method: AddPet
+23-11-2022 13:52:57.207 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 13:52:57.311 [dotnet] [DEBUG] Try load System.Runtime.Extensions in GaugeLoadContext
+23-11-2022 13:52:57.315 [Gauge] [DEBUG] * Check that pet has "lol" with "cat"
+
+23-11-2022 13:52:57.318 [dotnet] [DEBUG] Executing method: GetPet
+23-11-2022 13:52:57.357 [Gauge] [INFO] ## Delete The Pet ID
+23-11-2022 13:52:57.363 [Gauge] [DEBUG] * Delete a Pet "lol" with "cat"
+23-11-2022 13:52:57.365 [dotnet] [DEBUG] Executing method: DeletePet
+23-11-2022 13:52:57.398 [dotnet] [DEBUG] KillProcessrequest received
+23-11-2022 13:52:57.502 [Gauge] [DEBUG] Runner with PID:22046 has exited
+23-11-2022 13:52:57.502 [Gauge] [INFO] Specifications:	2 executed	2 passed	0 failed	0 skipped
+23-11-2022 13:52:57.503 [Gauge] [INFO] Scenarios:	3 executed	3 passed	0 failed	0 skipped
+23-11-2022 13:52:57.503 [Gauge] [INFO] 
+Total time taken: 619ms
+23-11-2022 13:52:57.503 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+23-11-2022 13:56:07.991 [Gauge] [DEBUG] Created gauge_screenshots_dir at /home/josh/QA_Exercise/submission-petstore-3/.gauge/screenshots
+23-11-2022 13:56:07.992 [Gauge] [DEBUG] Plugin dotnet is already installed.
+23-11-2022 13:56:07.992 [Gauge] [DEBUG] Parsing started.
+23-11-2022 13:56:07.993 [Gauge] [DEBUG] Started concepts parsing.
+23-11-2022 13:56:07.995 [Gauge] [DEBUG] 0 concepts parsing completed.
+23-11-2022 13:56:07.996 [Gauge] [DEBUG] Started specifications parsing.
+23-11-2022 13:56:07.997 [Gauge] [DEBUG] 2 specifications parsing completed.
+23-11-2022 13:56:07.998 [Gauge] [DEBUG] Parsing completed.
+23-11-2022 13:56:08.683 [dotnet] [INFO] Microsoft (R) Build Engine version 17.0.1+b177f8fa7 for .NET
+23-11-2022 13:56:08.684 [dotnet] [INFO] Copyright (C) Microsoft Corporation. All rights reserved.
+23-11-2022 13:56:09.534 [Gauge] [DEBUG] Checking updates...
+23-11-2022 13:56:09.534 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/dotnet?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 13:56:10.862 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 13:56:11.203 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 13:56:12.777 [dotnet] [INFO] /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/OpenApiClient/Client/ApiClient.cs(205,34): warning CS0618: 'RestClient.ExecuteTaskAsync(IRestRequest)' is obsolete: 'Use ExecuteAsync instead' [/home/josh/QA_Exercise/submission-petstore-3/solution.csproj]
+23-11-2022 13:56:12.777 [dotnet] [INFO] /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/Steps/PetSteps.cs(11,37): warning CS0649: Field 'PetSteps.pet' is never assigned to, and will always have its default value null [/home/josh/QA_Exercise/submission-petstore-3/solution.csproj]
+23-11-2022 13:56:13.595 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 13:56:13.608 [dotnet] [DEBUG] Using ExecutableRunnerServiceHandler
+23-11-2022 13:56:13.834 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 35687
+23-11-2022 13:56:13.894 [Gauge] [DEBUG] Successfully made the connection with runner with port: 35687
+23-11-2022 13:56:13.894 [Gauge] [DEBUG] Validation started.
+23-11-2022 13:56:14.929 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 13:56:14.930 [dotnet] [DEBUG] Try load Gauge.CSharp.Lib in GaugeLoadContext
+23-11-2022 13:56:14.936 [dotnet] [DEBUG] Try load solution in GaugeLoadContext
+23-11-2022 13:56:14.936 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 13:56:14.936 [dotnet] [DEBUG] Try load Microsoft.VisualStudio.TestPlatform.ObjectModel in GaugeLoadContext
+23-11-2022 13:56:14.937 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 13:56:14.937 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 13:56:14.937 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 13:56:14.938 [dotnet] [DEBUG] Try load Newtonsoft.Json in GaugeLoadContext
+23-11-2022 13:56:14.939 [dotnet] [DEBUG] Try load RestSharp in GaugeLoadContext
+23-11-2022 13:56:14.939 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 13:56:14.939 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 13:56:14.940 [dotnet] [DEBUG] Try load FluentAssertions in GaugeLoadContext
+23-11-2022 13:56:14.942 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 13:56:14.942 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 13:56:14.942 [dotnet] [DEBUG] Try load Microsoft.CSharp in GaugeLoadContext
+23-11-2022 13:56:14.943 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 13:56:14.943 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 13:56:14.943 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 13:56:14.943 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 13:56:14.943 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 13:56:14.944 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 13:56:14.945 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 13:56:14.946 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 13:56:14.951 [dotnet] [DEBUG] Number of AssembliesReferencingGaugeLib : 1
+23-11-2022 13:56:14.952 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 13:56:14.952 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 13:56:14.959 [dotnet] [DEBUG] Building StepRegistry...
+23-11-2022 13:56:14.962 [dotnet] [DEBUG] Try load netstandard in GaugeLoadContext
+23-11-2022 13:56:14.967 [dotnet] [DEBUG] 5 Step implementations found. Adding to registry...
+23-11-2022 13:56:14.968 [dotnet] [DEBUG] 'Add Pet to Scenerio with {} with {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 13:56:14.969 [dotnet] [DEBUG] 'Check that pet has {} with {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 13:56:14.969 [dotnet] [DEBUG] 'Delete a Pet {} with {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 13:56:14.970 [dotnet] [DEBUG] 'Get store inventory': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 13:56:14.970 [dotnet] [DEBUG] 'Check that inventory has status {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 13:56:14.976 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 13:56:14.977 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 13:56:14.977 [dotnet] [DEBUG] Loaded Instance Manager of Type:Gauge.CSharp.Lib.DefaultClassInstanceManager
+23-11-2022 13:56:15.063 [Gauge] [DEBUG] Validation completed.
+23-11-2022 13:56:15.064 [Gauge] [DEBUG] Run started
+23-11-2022 13:56:15.064 [Gauge] [DEBUG] Initialising suite data store.
+23-11-2022 13:56:15.118 [Gauge] [INFO] # Store Test Plan
+23-11-2022 13:56:15.149 [Gauge] [INFO] ## The store provides inventory
+23-11-2022 13:56:15.170 [Gauge] [DEBUG] * Get store inventory
+23-11-2022 13:56:15.192 [dotnet] [DEBUG] Executing method: GetStoreInventory
+23-11-2022 13:56:15.194 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 13:56:15.198 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 13:56:15.205 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 13:56:15.206 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 13:56:15.208 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 13:56:15.210 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 13:56:15.211 [dotnet] [DEBUG] Try load System.Globalization in GaugeLoadContext
+23-11-2022 13:56:15.232 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 13:56:15.388 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 13:56:15.392 [dotnet] [DEBUG] Try load System.IO in GaugeLoadContext
+23-11-2022 13:56:15.397 [dotnet] [DEBUG] Try load System.Runtime.Extensions in GaugeLoadContext
+23-11-2022 13:56:15.406 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 13:56:15.408 [dotnet] [DEBUG] Try load System.Dynamic.Runtime in GaugeLoadContext
+23-11-2022 13:56:15.408 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 13:56:15.423 [dotnet] [DEBUG] Try load System.Reflection in GaugeLoadContext
+23-11-2022 13:56:15.429 [dotnet] [DEBUG] Try load System.Reflection.Extensions in GaugeLoadContext
+23-11-2022 13:56:15.430 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 13:56:15.434 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 13:56:15.448 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 13:56:15.450 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 13:56:15.555 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 13:56:15.557 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 13:56:15.558 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 13:56:15.564 [dotnet] [DEBUG] Try load System.Data.Common in GaugeLoadContext
+23-11-2022 13:56:15.567 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 13:56:15.574 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 13:56:15.582 [Gauge] [DEBUG] * Check that inventory has status "sold"
+23-11-2022 13:56:15.600 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 13:56:15.612 [Gauge] [DEBUG] * Check that inventory has status "pending"
+23-11-2022 13:56:15.616 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 13:56:15.618 [Gauge] [DEBUG] * Check that inventory has status "available"
+23-11-2022 13:56:15.621 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 13:56:15.637 [Gauge] [INFO] # Pet Test Plan
+23-11-2022 13:56:15.640 [Gauge] [INFO] ## The Pet Gets ID
+23-11-2022 13:56:15.646 [Gauge] [DEBUG] * Add Pet to Scenerio with "lol" with "cat"
+23-11-2022 13:56:15.650 [dotnet] [DEBUG] Executing method: AddPet
+23-11-2022 13:56:15.703 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 13:56:15.867 [dotnet] [DEBUG] Try load System.Runtime.Extensions in GaugeLoadContext
+23-11-2022 13:56:15.872 [Gauge] [DEBUG] * Check that pet has "lol" with "cat"
+
+23-11-2022 13:56:15.877 [dotnet] [DEBUG] Executing method: GetPet
+23-11-2022 13:56:15.945 [Gauge] [INFO] ## Delete The Pet ID
+23-11-2022 13:56:15.948 [Gauge] [DEBUG] * Delete a Pet "lol" with "cat"
+23-11-2022 13:56:15.951 [dotnet] [DEBUG] Executing method: DeletePet
+23-11-2022 13:56:16.044 [dotnet] [DEBUG] Try load System.Diagnostics.StackTrace in GaugeLoadContext
+23-11-2022 13:56:16.089 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 13:56:16.100 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 13:56:16.114 [dotnet] [DEBUG] Try load System.Configuration.ConfigurationManager in GaugeLoadContext
+23-11-2022 13:56:16.117 [dotnet] [DEBUG] Try load netstandard in GaugeLoadContext
+23-11-2022 13:56:16.118 [dotnet] [DEBUG] Try load System.Collections.Specialized in GaugeLoadContext
+23-11-2022 13:56:16.279 [dotnet] [DEBUG] Try load xunit.assert in GaugeLoadContext
+23-11-2022 13:56:16.281 [dotnet] [DEBUG] Error executing DeletePet : Exception has been thrown by the target of an invocation.
+23-11-2022 13:56:16.281 [dotnet] [DEBUG] Try load System.Diagnostics.Debug in GaugeLoadContext
+23-11-2022 13:56:16.283 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 13:56:16.284 [dotnet] [DEBUG] Try load System.Diagnostics.Process in GaugeLoadContext
+23-11-2022 13:56:16.313 [dotnet] [ERROR] panic: BadMatch {NiceName: Match, Sequence: 1, BadValue: 1164, MinorOpcode: 0, MajorOpcode: 73}
+23-11-2022 13:56:16.313 [dotnet] [ERROR] goroutine 1 [running]:
+23-11-2022 13:56:16.313 [dotnet] [ERROR] main.main()
+23-11-2022 13:56:16.313 [dotnet] [ERROR] 	/Users/runner/work/gauge_screenshot/gauge_screenshot/main.go:44 +0x205
+23-11-2022 13:56:16.325 [Gauge] [ERROR] Failed Step: Delete a Pet "lol" with "cat"
+23-11-2022 13:56:16.325 [Gauge] [ERROR] Error Message: Expected pet to be empty because lol, but found <null>.
+23-11-2022 13:56:16.325 [Gauge] [ERROR] Specification: Applications/PetStore/specs/pet.spec:12
+23-11-2022 13:56:16.326 [Gauge] [ERROR] Stacktrace: 
+   at FluentAssertions.Execution.FallbackTestFramework.Throw(String message)
+   at FluentAssertions.Execution.TestFrameworkProvider.Throw(String message)
+   at FluentAssertions.Execution.DefaultAssertionStrategy.HandleFailure(String message)
+   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)
+   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)
+   at FluentAssertions.Execution.AssertionScope.FailWith(String message, Object[] args)
+   at FluentAssertions.Execution.GivenSelector`1.FailWith(String message, Object[] args)
+   at FluentAssertions.Execution.GivenSelector`1.FailWith(String message)
+   at FluentAssertions.Collections.GenericCollectionAssertions`3.BeEmpty(String because, Object[] becauseArgs)
+   at Applications.PetStore.Steps.PetSteps.DeletePet(String name, String cat) in /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/Steps/PetSteps.cs:line 33
+23-11-2022 13:56:16.340 [dotnet] [DEBUG] KillProcessrequest received
+23-11-2022 13:56:16.446 [Gauge] [DEBUG] Runner with PID:22612 has exited
+23-11-2022 13:56:16.446 [Gauge] [INFO] Specifications:	2 executed	1 passed	1 failed	0 skipped
+23-11-2022 13:56:16.446 [Gauge] [INFO] Scenarios:	3 executed	2 passed	1 failed	0 skipped
+23-11-2022 13:56:16.447 [Gauge] [INFO] 
+Total time taken: 1.273s
+23-11-2022 13:56:16.447 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+23-11-2022 13:58:06.473 [Gauge] [DEBUG] Created gauge_screenshots_dir at /home/josh/QA_Exercise/submission-petstore-3/.gauge/screenshots
+23-11-2022 13:58:06.474 [Gauge] [DEBUG] Plugin dotnet is already installed.
+23-11-2022 13:58:06.475 [Gauge] [DEBUG] Parsing started.
+23-11-2022 13:58:06.475 [Gauge] [DEBUG] Started concepts parsing.
+23-11-2022 13:58:06.480 [Gauge] [DEBUG] 0 concepts parsing completed.
+23-11-2022 13:58:06.483 [Gauge] [DEBUG] Started specifications parsing.
+23-11-2022 13:58:06.485 [Gauge] [DEBUG] 2 specifications parsing completed.
+23-11-2022 13:58:06.485 [Gauge] [DEBUG] Parsing completed.
+23-11-2022 13:58:07.056 [dotnet] [INFO] Microsoft (R) Build Engine version 17.0.1+b177f8fa7 for .NET
+23-11-2022 13:58:07.056 [dotnet] [INFO] Copyright (C) Microsoft Corporation. All rights reserved.
+23-11-2022 13:58:07.662 [Gauge] [DEBUG] Checking updates...
+23-11-2022 13:58:07.662 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/dotnet?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 13:58:08.764 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 13:58:09.105 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 13:58:09.845 [dotnet] [INFO] /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/OpenApiClient/Client/ApiClient.cs(205,34): warning CS0618: 'RestClient.ExecuteTaskAsync(IRestRequest)' is obsolete: 'Use ExecuteAsync instead' [/home/josh/QA_Exercise/submission-petstore-3/solution.csproj]
+23-11-2022 13:58:09.846 [dotnet] [INFO] /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/Steps/PetSteps.cs(11,37): warning CS0649: Field 'PetSteps.pet' is never assigned to, and will always have its default value null [/home/josh/QA_Exercise/submission-petstore-3/solution.csproj]
+23-11-2022 13:58:10.448 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 13:58:10.456 [dotnet] [DEBUG] Using ExecutableRunnerServiceHandler
+23-11-2022 13:58:10.614 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 37483
+23-11-2022 13:58:10.655 [Gauge] [DEBUG] Successfully made the connection with runner with port: 37483
+23-11-2022 13:58:10.655 [Gauge] [DEBUG] Validation started.
+23-11-2022 13:58:11.407 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 13:58:11.408 [dotnet] [DEBUG] Try load Gauge.CSharp.Lib in GaugeLoadContext
+23-11-2022 13:58:11.412 [dotnet] [DEBUG] Try load solution in GaugeLoadContext
+23-11-2022 13:58:11.412 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 13:58:11.412 [dotnet] [DEBUG] Try load Microsoft.VisualStudio.TestPlatform.ObjectModel in GaugeLoadContext
+23-11-2022 13:58:11.413 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 13:58:11.413 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 13:58:11.413 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 13:58:11.413 [dotnet] [DEBUG] Try load Newtonsoft.Json in GaugeLoadContext
+23-11-2022 13:58:11.414 [dotnet] [DEBUG] Try load RestSharp in GaugeLoadContext
+23-11-2022 13:58:11.428 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 13:58:11.428 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 13:58:11.429 [dotnet] [DEBUG] Try load FluentAssertions in GaugeLoadContext
+23-11-2022 13:58:11.430 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 13:58:11.430 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 13:58:11.430 [dotnet] [DEBUG] Try load Microsoft.CSharp in GaugeLoadContext
+23-11-2022 13:58:11.430 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 13:58:11.431 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 13:58:11.431 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 13:58:11.431 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 13:58:11.431 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 13:58:11.431 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 13:58:11.432 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 13:58:11.432 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 13:58:11.436 [dotnet] [DEBUG] Number of AssembliesReferencingGaugeLib : 1
+23-11-2022 13:58:11.436 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 13:58:11.437 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 13:58:11.442 [dotnet] [DEBUG] Building StepRegistry...
+23-11-2022 13:58:11.445 [dotnet] [DEBUG] Try load netstandard in GaugeLoadContext
+23-11-2022 13:58:11.448 [dotnet] [DEBUG] 5 Step implementations found. Adding to registry...
+23-11-2022 13:58:11.449 [dotnet] [DEBUG] 'Add Pet to Scenerio with {} with {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 13:58:11.449 [dotnet] [DEBUG] 'Check that pet has {} with {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 13:58:11.450 [dotnet] [DEBUG] 'Delete a Pet {} with {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 13:58:11.450 [dotnet] [DEBUG] 'Get store inventory': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 13:58:11.450 [dotnet] [DEBUG] 'Check that inventory has status {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 13:58:11.453 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 13:58:11.453 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 13:58:11.453 [dotnet] [DEBUG] Loaded Instance Manager of Type:Gauge.CSharp.Lib.DefaultClassInstanceManager
+23-11-2022 13:58:11.523 [Gauge] [DEBUG] Validation completed.
+23-11-2022 13:58:11.523 [Gauge] [DEBUG] Run started
+23-11-2022 13:58:11.523 [Gauge] [DEBUG] Initialising suite data store.
+23-11-2022 13:58:11.561 [Gauge] [INFO] # Store Test Plan
+23-11-2022 13:58:11.575 [Gauge] [INFO] ## The store provides inventory
+23-11-2022 13:58:11.591 [Gauge] [DEBUG] * Get store inventory
+23-11-2022 13:58:11.603 [dotnet] [DEBUG] Executing method: GetStoreInventory
+23-11-2022 13:58:11.606 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 13:58:11.608 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 13:58:11.611 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 13:58:11.611 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 13:58:11.612 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 13:58:11.614 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 13:58:11.615 [dotnet] [DEBUG] Try load System.Globalization in GaugeLoadContext
+23-11-2022 13:58:11.627 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 13:58:11.738 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 13:58:11.741 [dotnet] [DEBUG] Try load System.IO in GaugeLoadContext
+23-11-2022 13:58:11.744 [dotnet] [DEBUG] Try load System.Runtime.Extensions in GaugeLoadContext
+23-11-2022 13:58:11.751 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 13:58:11.752 [dotnet] [DEBUG] Try load System.Dynamic.Runtime in GaugeLoadContext
+23-11-2022 13:58:11.752 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 13:58:11.762 [dotnet] [DEBUG] Try load System.Reflection in GaugeLoadContext
+23-11-2022 13:58:11.766 [dotnet] [DEBUG] Try load System.Reflection.Extensions in GaugeLoadContext
+23-11-2022 13:58:11.767 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 13:58:11.770 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 13:58:11.779 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 13:58:11.781 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 13:58:11.863 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 13:58:11.864 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 13:58:11.865 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 13:58:11.868 [dotnet] [DEBUG] Try load System.Data.Common in GaugeLoadContext
+23-11-2022 13:58:11.870 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 13:58:11.875 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 13:58:11.880 [Gauge] [DEBUG] * Check that inventory has status "sold"
+23-11-2022 13:58:11.894 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 13:58:11.903 [Gauge] [DEBUG] * Check that inventory has status "pending"
+23-11-2022 13:58:11.906 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 13:58:11.907 [Gauge] [DEBUG] * Check that inventory has status "available"
+23-11-2022 13:58:11.909 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 13:58:11.919 [Gauge] [INFO] # Pet Test Plan
+23-11-2022 13:58:11.922 [Gauge] [INFO] ## The Pet Gets ID
+23-11-2022 13:58:11.924 [Gauge] [DEBUG] * Add Pet to Scenerio with "lol" with "cat"
+23-11-2022 13:58:11.927 [dotnet] [DEBUG] Executing method: AddPet
+23-11-2022 13:58:11.959 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 13:58:12.063 [dotnet] [DEBUG] Try load System.Runtime.Extensions in GaugeLoadContext
+23-11-2022 13:58:12.068 [Gauge] [DEBUG] * Check that pet has "lol" with "cat"
+
+23-11-2022 13:58:12.072 [dotnet] [DEBUG] Executing method: GetPet
+23-11-2022 13:58:12.113 [Gauge] [INFO] ## Delete The Pet ID
+23-11-2022 13:58:12.115 [Gauge] [DEBUG] * Delete a Pet "lol" with "cat"
+23-11-2022 13:58:12.118 [dotnet] [DEBUG] Executing method: DeletePet
+23-11-2022 13:58:12.139 [dotnet] [DEBUG] KillProcessrequest received
+23-11-2022 13:58:12.243 [Gauge] [DEBUG] Runner with PID:22967 has exited
+23-11-2022 13:58:12.244 [Gauge] [INFO] Specifications:	2 executed	2 passed	0 failed	0 skipped
+23-11-2022 13:58:12.244 [Gauge] [INFO] Scenarios:	3 executed	3 passed	0 failed	0 skipped
+23-11-2022 13:58:12.244 [Gauge] [INFO] 
+Total time taken: 613ms
+23-11-2022 13:58:12.244 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+23-11-2022 14:05:03.706 [Gauge] [DEBUG] Created gauge_screenshots_dir at /home/josh/QA_Exercise/submission-petstore-3/.gauge/screenshots
+23-11-2022 14:05:03.708 [Gauge] [DEBUG] Plugin dotnet is already installed.
+23-11-2022 14:05:03.709 [Gauge] [DEBUG] Parsing started.
+23-11-2022 14:05:03.709 [Gauge] [DEBUG] Started concepts parsing.
+23-11-2022 14:05:03.713 [Gauge] [DEBUG] 0 concepts parsing completed.
+23-11-2022 14:05:03.715 [Gauge] [DEBUG] Started specifications parsing.
+23-11-2022 14:05:03.717 [Gauge] [DEBUG] 2 specifications parsing completed.
+23-11-2022 14:05:03.717 [Gauge] [DEBUG] Parsing completed.
+23-11-2022 14:05:04.194 [dotnet] [INFO] Microsoft (R) Build Engine version 17.0.1+b177f8fa7 for .NET
+23-11-2022 14:05:04.194 [dotnet] [INFO] Copyright (C) Microsoft Corporation. All rights reserved.
+23-11-2022 14:05:04.858 [Gauge] [DEBUG] Checking updates...
+23-11-2022 14:05:04.858 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/dotnet?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 14:05:06.234 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 14:05:06.572 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 14:05:07.046 [dotnet] [INFO] /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/OpenApiClient/Client/ApiClient.cs(205,34): warning CS0618: 'RestClient.ExecuteTaskAsync(IRestRequest)' is obsolete: 'Use ExecuteAsync instead' [/home/josh/QA_Exercise/submission-petstore-3/solution.csproj]
+23-11-2022 14:05:07.046 [dotnet] [INFO] /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/Steps/PetSteps.cs(11,37): warning CS0169: The field 'PetSteps.pet' is never used [/home/josh/QA_Exercise/submission-petstore-3/solution.csproj]
+23-11-2022 14:05:07.661 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 14:05:07.676 [dotnet] [DEBUG] Using ExecutableRunnerServiceHandler
+23-11-2022 14:05:07.847 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 34133
+23-11-2022 14:05:07.897 [Gauge] [DEBUG] Successfully made the connection with runner with port: 34133
+23-11-2022 14:05:07.897 [Gauge] [DEBUG] Validation started.
+23-11-2022 14:05:08.666 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 14:05:08.667 [dotnet] [DEBUG] Try load Gauge.CSharp.Lib in GaugeLoadContext
+23-11-2022 14:05:08.672 [dotnet] [DEBUG] Try load solution in GaugeLoadContext
+23-11-2022 14:05:08.672 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 14:05:08.673 [dotnet] [DEBUG] Try load Microsoft.VisualStudio.TestPlatform.ObjectModel in GaugeLoadContext
+23-11-2022 14:05:08.673 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 14:05:08.673 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 14:05:08.673 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 14:05:08.674 [dotnet] [DEBUG] Try load Newtonsoft.Json in GaugeLoadContext
+23-11-2022 14:05:08.674 [dotnet] [DEBUG] Try load RestSharp in GaugeLoadContext
+23-11-2022 14:05:08.674 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 14:05:08.675 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 14:05:08.675 [dotnet] [DEBUG] Try load FluentAssertions in GaugeLoadContext
+23-11-2022 14:05:08.676 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 14:05:08.676 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 14:05:08.676 [dotnet] [DEBUG] Try load Microsoft.CSharp in GaugeLoadContext
+23-11-2022 14:05:08.677 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 14:05:08.677 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 14:05:08.677 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 14:05:08.677 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 14:05:08.677 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 14:05:08.677 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 14:05:08.678 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 14:05:08.678 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 14:05:08.682 [dotnet] [DEBUG] Number of AssembliesReferencingGaugeLib : 1
+23-11-2022 14:05:08.682 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 14:05:08.682 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 14:05:08.688 [dotnet] [DEBUG] Building StepRegistry...
+23-11-2022 14:05:08.690 [dotnet] [DEBUG] Try load netstandard in GaugeLoadContext
+23-11-2022 14:05:08.693 [dotnet] [DEBUG] 5 Step implementations found. Adding to registry...
+23-11-2022 14:05:08.694 [dotnet] [DEBUG] 'Add Pet to Scenerio with {} with {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 14:05:08.695 [dotnet] [DEBUG] 'Check that pet has {} with {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 14:05:08.695 [dotnet] [DEBUG] 'Delete a Pet {} with {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 14:05:08.695 [dotnet] [DEBUG] 'Get store inventory': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 14:05:08.695 [dotnet] [DEBUG] 'Check that inventory has status {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 14:05:08.698 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 14:05:08.698 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 14:05:08.698 [dotnet] [DEBUG] Loaded Instance Manager of Type:Gauge.CSharp.Lib.DefaultClassInstanceManager
+23-11-2022 14:05:08.759 [Gauge] [DEBUG] Validation completed.
+23-11-2022 14:05:08.759 [Gauge] [DEBUG] Run started
+23-11-2022 14:05:08.759 [Gauge] [DEBUG] Initialising suite data store.
+23-11-2022 14:05:08.797 [Gauge] [INFO] # Store Test Plan
+23-11-2022 14:05:08.809 [Gauge] [INFO] ## The store provides inventory
+23-11-2022 14:05:08.824 [Gauge] [DEBUG] * Get store inventory
+23-11-2022 14:05:08.838 [dotnet] [DEBUG] Executing method: GetStoreInventory
+23-11-2022 14:05:08.841 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 14:05:08.843 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 14:05:08.847 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 14:05:08.847 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 14:05:08.848 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 14:05:08.850 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 14:05:08.850 [dotnet] [DEBUG] Try load System.Globalization in GaugeLoadContext
+23-11-2022 14:05:08.862 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 14:05:08.970 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 14:05:08.974 [dotnet] [DEBUG] Try load System.IO in GaugeLoadContext
+23-11-2022 14:05:08.977 [dotnet] [DEBUG] Try load System.Runtime.Extensions in GaugeLoadContext
+23-11-2022 14:05:08.984 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 14:05:08.985 [dotnet] [DEBUG] Try load System.Dynamic.Runtime in GaugeLoadContext
+23-11-2022 14:05:08.985 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 14:05:08.995 [dotnet] [DEBUG] Try load System.Reflection in GaugeLoadContext
+23-11-2022 14:05:09.000 [dotnet] [DEBUG] Try load System.Reflection.Extensions in GaugeLoadContext
+23-11-2022 14:05:09.000 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 14:05:09.003 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 14:05:09.013 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 14:05:09.015 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 14:05:09.089 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 14:05:09.091 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 14:05:09.091 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 14:05:09.095 [dotnet] [DEBUG] Try load System.Data.Common in GaugeLoadContext
+23-11-2022 14:05:09.097 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 14:05:09.102 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 14:05:09.107 [Gauge] [DEBUG] * Check that inventory has status "sold"
+23-11-2022 14:05:09.121 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 14:05:09.131 [Gauge] [DEBUG] * Check that inventory has status "pending"
+23-11-2022 14:05:09.133 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 14:05:09.134 [Gauge] [DEBUG] * Check that inventory has status "available"
+23-11-2022 14:05:09.137 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 14:05:09.148 [Gauge] [INFO] # Pet Test Plan
+23-11-2022 14:05:09.151 [Gauge] [INFO] ## The Pet Gets ID
+23-11-2022 14:05:09.154 [Gauge] [DEBUG] * Add Pet to Scenerio with "lol" with "cat"
+23-11-2022 14:05:09.156 [dotnet] [DEBUG] Executing method: AddPet
+23-11-2022 14:05:09.190 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 14:05:09.292 [dotnet] [DEBUG] Try load System.Runtime.Extensions in GaugeLoadContext
+23-11-2022 14:05:09.296 [Gauge] [DEBUG] * Check that pet has "lol" with "cat"
+
+23-11-2022 14:05:09.298 [dotnet] [DEBUG] Executing method: GetPet
+23-11-2022 14:05:09.341 [Gauge] [INFO] ## Delete The Pet ID
+23-11-2022 14:05:09.346 [Gauge] [DEBUG] * Delete a Pet "lol" with "cat"
+23-11-2022 14:05:09.349 [dotnet] [DEBUG] Executing method: DeletePet
+23-11-2022 14:05:09.364 [dotnet] [DEBUG] Error executing DeletePet : Exception has been thrown by the target of an invocation.
+23-11-2022 14:05:09.382 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 14:05:09.382 [dotnet] [DEBUG] Try load System.Diagnostics.Process in GaugeLoadContext
+23-11-2022 14:05:09.389 [dotnet] [ERROR] panic: BadMatch {NiceName: Match, Sequence: 1, BadValue: 1164, MinorOpcode: 0, MajorOpcode: 73}
+23-11-2022 14:05:09.389 [dotnet] [ERROR] goroutine 1 [running]:
+23-11-2022 14:05:09.389 [dotnet] [ERROR] main.main()
+23-11-2022 14:05:09.389 [dotnet] [ERROR] 	/Users/runner/work/gauge_screenshot/gauge_screenshot/main.go:44 +0x205
+23-11-2022 14:05:09.395 [Gauge] [ERROR] Failed Step: Delete a Pet "lol" with "cat"
+23-11-2022 14:05:09.396 [Gauge] [ERROR] Error Message: Error calling GetPetById: {"code":1,"type":"error","message":"Pet not found"}
+23-11-2022 14:05:09.396 [Gauge] [ERROR] Specification: Applications/PetStore/specs/pet.spec:12
+23-11-2022 14:05:09.396 [Gauge] [ERROR] Stacktrace: 
+   at Applications.PetStore.Swagger.Api.PetApi.GetPetByIdWithHttpInfo(Nullable`1 petId) in /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/OpenApiClient/Api/PetApi.cs:line 1145
+   at Applications.PetStore.Swagger.Api.PetApi.GetPetById(Nullable`1 petId) in /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/OpenApiClient/Api/PetApi.cs:line 1095
+   at Applications.PetStore.Steps.PetSteps.DeletePet(String name, String cat) in /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/Steps/PetSteps.cs:line 33
+23-11-2022 14:05:09.403 [dotnet] [DEBUG] KillProcessrequest received
+23-11-2022 14:05:09.416 [Gauge] [ERROR] Failed to kill Runner: rpc error: code = Unavailable desc = error reading from server: EOF
+23-11-2022 14:05:09.417 [Gauge] [INFO] Specifications:	2 executed	1 passed	1 failed	0 skipped
+23-11-2022 14:05:09.417 [Gauge] [INFO] Scenarios:	3 executed	2 passed	1 failed	0 skipped
+23-11-2022 14:05:09.417 [Gauge] [INFO] 
+Total time taken: 641ms
+23-11-2022 14:05:09.417 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+23-11-2022 14:22:51.566 [Gauge] [DEBUG] Created gauge_screenshots_dir at /home/josh/QA_Exercise/submission-petstore-3/.gauge/screenshots
+23-11-2022 14:22:51.567 [Gauge] [DEBUG] Plugin dotnet is already installed.
+23-11-2022 14:22:51.567 [Gauge] [DEBUG] Parsing started.
+23-11-2022 14:22:51.567 [Gauge] [DEBUG] Started concepts parsing.
+23-11-2022 14:22:51.569 [Gauge] [DEBUG] 0 concepts parsing completed.
+23-11-2022 14:22:51.570 [Gauge] [DEBUG] Started specifications parsing.
+23-11-2022 14:22:51.570 [Gauge] [DEBUG] 2 specifications parsing completed.
+23-11-2022 14:22:51.570 [Gauge] [DEBUG] Parsing completed.
+23-11-2022 14:22:52.051 [dotnet] [INFO] Microsoft (R) Build Engine version 17.0.1+b177f8fa7 for .NET
+23-11-2022 14:22:52.051 [dotnet] [INFO] Copyright (C) Microsoft Corporation. All rights reserved.
+23-11-2022 14:22:52.750 [Gauge] [DEBUG] Checking updates...
+23-11-2022 14:22:52.750 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/dotnet?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 14:22:54.753 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 14:22:55.209 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+23-11-2022 14:22:55.285 [dotnet] [INFO] /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/OpenApiClient/Client/ApiClient.cs(205,34): warning CS0618: 'RestClient.ExecuteTaskAsync(IRestRequest)' is obsolete: 'Use ExecuteAsync instead' [/home/josh/QA_Exercise/submission-petstore-3/solution.csproj]
+23-11-2022 14:22:55.285 [dotnet] [INFO] /home/josh/QA_Exercise/submission-petstore-3/Applications/PetStore/Steps/PetSteps.cs(13,37): warning CS0169: The field 'PetSteps.pet' is never used [/home/josh/QA_Exercise/submission-petstore-3/solution.csproj]
+23-11-2022 14:22:55.984 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 14:22:55.993 [dotnet] [DEBUG] Using ExecutableRunnerServiceHandler
+23-11-2022 14:22:56.161 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 36671
+23-11-2022 14:22:56.203 [Gauge] [DEBUG] Successfully made the connection with runner with port: 36671
+23-11-2022 14:22:56.203 [Gauge] [DEBUG] Validation started.
+23-11-2022 14:22:56.969 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+23-11-2022 14:22:56.970 [dotnet] [DEBUG] Try load Gauge.CSharp.Lib in GaugeLoadContext
+23-11-2022 14:22:56.974 [dotnet] [DEBUG] Try load solution in GaugeLoadContext
+23-11-2022 14:22:56.974 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 14:22:56.974 [dotnet] [DEBUG] Try load Microsoft.VisualStudio.TestPlatform.ObjectModel in GaugeLoadContext
+23-11-2022 14:22:56.975 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 14:22:56.975 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 14:22:56.975 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 14:22:56.975 [dotnet] [DEBUG] Try load Newtonsoft.Json in GaugeLoadContext
+23-11-2022 14:22:56.976 [dotnet] [DEBUG] Try load RestSharp in GaugeLoadContext
+23-11-2022 14:22:56.976 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 14:22:56.976 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 14:22:56.977 [dotnet] [DEBUG] Try load FluentAssertions in GaugeLoadContext
+23-11-2022 14:22:56.978 [dotnet] [DEBUG] Try load nunit.framework in GaugeLoadContext
+23-11-2022 14:22:56.985 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 14:22:56.986 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 14:22:56.986 [dotnet] [DEBUG] Try load Microsoft.CSharp in GaugeLoadContext
+23-11-2022 14:22:56.986 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 14:22:56.986 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 14:22:56.987 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 14:22:56.987 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 14:22:56.987 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 14:22:56.987 [dotnet] [DEBUG] Try load System.ComponentModel.Annotations in GaugeLoadContext
+23-11-2022 14:22:56.988 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 14:22:56.988 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 14:22:56.993 [dotnet] [DEBUG] Number of AssembliesReferencingGaugeLib : 1
+23-11-2022 14:22:56.993 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 14:22:56.993 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 14:22:56.998 [dotnet] [DEBUG] Building StepRegistry...
+23-11-2022 14:22:57.001 [dotnet] [DEBUG] Try load netstandard in GaugeLoadContext
+23-11-2022 14:22:57.004 [dotnet] [DEBUG] 6 Step implementations found. Adding to registry...
+23-11-2022 14:22:57.005 [dotnet] [DEBUG] 'Add Pet to Scenerio with {} with {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 14:22:57.006 [dotnet] [DEBUG] 'Check that pet has {} with {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 14:22:57.006 [dotnet] [DEBUG] 'Delete a Pet {} with {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 14:22:57.006 [dotnet] [DEBUG] 'Verify that Pet is Deleted': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 14:22:57.006 [dotnet] [DEBUG] 'Get store inventory': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 14:22:57.007 [dotnet] [DEBUG] 'Check that inventory has status {}': implementation found in StepRegistry, setting reflected methodInfo
+23-11-2022 14:22:57.011 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 14:22:57.011 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 14:22:57.012 [dotnet] [DEBUG] Loaded Instance Manager of Type:Gauge.CSharp.Lib.DefaultClassInstanceManager
+23-11-2022 14:22:57.092 [Gauge] [DEBUG] Validation completed.
+23-11-2022 14:22:57.092 [Gauge] [DEBUG] Run started
+23-11-2022 14:22:57.093 [Gauge] [DEBUG] Initialising suite data store.
+23-11-2022 14:22:57.131 [Gauge] [INFO] # Store Test Plan
+23-11-2022 14:22:57.143 [Gauge] [INFO] ## The store provides inventory
+23-11-2022 14:22:57.156 [Gauge] [DEBUG] * Get store inventory
+23-11-2022 14:22:57.173 [dotnet] [DEBUG] Executing method: GetStoreInventory
+23-11-2022 14:22:57.176 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 14:22:57.180 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+23-11-2022 14:22:57.183 [dotnet] [DEBUG] Try load System.Net.Primitives in GaugeLoadContext
+23-11-2022 14:22:57.183 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 14:22:57.185 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 14:22:57.187 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 14:22:57.188 [dotnet] [DEBUG] Try load System.Globalization in GaugeLoadContext
+23-11-2022 14:22:57.200 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 14:22:57.341 [dotnet] [DEBUG] Try load System.IO.FileSystem in GaugeLoadContext
+23-11-2022 14:22:57.345 [dotnet] [DEBUG] Try load System.IO in GaugeLoadContext
+23-11-2022 14:22:57.350 [dotnet] [DEBUG] Try load System.Runtime.Extensions in GaugeLoadContext
+23-11-2022 14:22:57.360 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 14:22:57.361 [dotnet] [DEBUG] Try load System.Dynamic.Runtime in GaugeLoadContext
+23-11-2022 14:22:57.362 [dotnet] [DEBUG] Try load System.Linq.Expressions in GaugeLoadContext
+23-11-2022 14:22:57.372 [dotnet] [DEBUG] Try load System.Reflection in GaugeLoadContext
+23-11-2022 14:22:57.377 [dotnet] [DEBUG] Try load System.Reflection.Extensions in GaugeLoadContext
+23-11-2022 14:22:57.377 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 14:22:57.381 [dotnet] [DEBUG] Try load System.ObjectModel in GaugeLoadContext
+23-11-2022 14:22:57.390 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 14:22:57.392 [dotnet] [DEBUG] Try load System.Text.RegularExpressions in GaugeLoadContext
+23-11-2022 14:22:57.469 [dotnet] [DEBUG] Try load System.Threading in GaugeLoadContext
+23-11-2022 14:22:57.471 [dotnet] [DEBUG] Try load System.Collections in GaugeLoadContext
+23-11-2022 14:22:57.471 [dotnet] [DEBUG] Try load System.Collections.Concurrent in GaugeLoadContext
+23-11-2022 14:22:57.474 [dotnet] [DEBUG] Try load System.Data.Common in GaugeLoadContext
+23-11-2022 14:22:57.477 [dotnet] [DEBUG] Try load System.Xml.XDocument in GaugeLoadContext
+23-11-2022 14:22:57.482 [dotnet] [DEBUG] Try load System.Linq in GaugeLoadContext
+23-11-2022 14:22:57.487 [Gauge] [DEBUG] * Check that inventory has status "sold"
+23-11-2022 14:22:57.502 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 14:22:57.512 [Gauge] [DEBUG] * Check that inventory has status "pending"
+23-11-2022 14:22:57.515 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 14:22:57.516 [Gauge] [DEBUG] * Check that inventory has status "available"
+23-11-2022 14:22:57.519 [dotnet] [DEBUG] Executing method: CheckStatus
+23-11-2022 14:22:57.533 [Gauge] [INFO] # Pet Test Plan
+23-11-2022 14:22:57.537 [Gauge] [INFO] ## The Pet Gets ID
+23-11-2022 14:22:57.540 [Gauge] [DEBUG] * Add Pet to Scenerio with "lol" with "cat"
+23-11-2022 14:22:57.542 [dotnet] [DEBUG] Executing method: AddPet
+23-11-2022 14:22:57.581 [dotnet] [DEBUG] Try load System.Runtime.Serialization.Primitives in GaugeLoadContext
+23-11-2022 14:22:57.708 [dotnet] [DEBUG] Try load System.Runtime.Extensions in GaugeLoadContext
+23-11-2022 14:22:57.712 [Gauge] [DEBUG] * Check that pet has "lol" with "cat"
+
+23-11-2022 14:22:57.714 [dotnet] [DEBUG] Executing method: GetPet
+23-11-2022 14:22:57.752 [Gauge] [INFO] ## Delete The Pet ID
+23-11-2022 14:22:57.754 [Gauge] [DEBUG] * Delete a Pet "lol" with "cat"
+23-11-2022 14:22:57.758 [dotnet] [DEBUG] Executing method: DeletePet
+23-11-2022 14:22:57.767 [Gauge] [DEBUG] * Verify that Pet is Deleted
+23-11-2022 14:22:57.769 [dotnet] [DEBUG] Executing method: VerifyDeletedPet
+23-11-2022 14:22:57.770 [dotnet] [DEBUG] Try load netstandard in GaugeLoadContext
+23-11-2022 14:22:57.833 [dotnet] [DEBUG] KillProcessrequest received
+23-11-2022 14:22:57.954 [Gauge] [DEBUG] Runner with PID:25492 has exited
+23-11-2022 14:22:57.954 [Gauge] [INFO] Specifications:	2 executed	2 passed	0 failed	0 skipped
+23-11-2022 14:22:57.954 [Gauge] [INFO] Scenarios:	3 executed	3 passed	0 failed	0 skipped
+23-11-2022 14:22:57.954 [Gauge] [INFO] 
+Total time taken: 737ms
+23-11-2022 14:22:57.954 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
